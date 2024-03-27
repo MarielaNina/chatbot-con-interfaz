@@ -1,0 +1,1608 @@
+{
+  "intents": [
+    {
+      "tag": "saludos",
+      "patterns": ["Hola", "Holi", "¿Como estas?","quien eres","que puedes hacer"],
+      "responses": [
+        "Holi, soy tu asistente para el Examen de Admisión, en que puedo ayudarte?",
+        "Hola,soy tu asistente para el Examen de Admisión, en que necesitas ayuda",
+        "Hola , indicame en que te puedo ayudar"
+      ]
+    },
+
+
+    {
+      "tag": "articulo3",
+      "patterns": [
+        "Cuántas veces al año se hace el proceso de admisión",
+        "Cuántas veces al año se hace el examen de admisión en UNAM?",
+        "cuantos examenes hay en la unam por año",
+        "hay examen a mitad del año en la UNAM",
+        "hay examen a medio año en la UNAM",
+        "Se realiza proceso de admisión a mitad de año",
+        "En el año solo se realiza un proceso de admisión",
+        "Cuántas pruebas se realizan en la UNAM cada año",
+        "Sabes cuántos exámenes se hacen en la UNAM anualmente",
+        "Cuál es la cantidad de exámenes que se dan en la UNAM en un año?",
+        "Cuántos exámenes se programan en la UNAM",
+        "Cuántos exámenes se dan en la UNAM",
+        "Cuántos exámenes hay en la UNAM por año",
+        "cuantas convocatorias de examen de admisión tiene la UNAM",
+        "cuantas veces se ofrece el examen de admisión",
+        "habrá examen a mediados de año",
+        "cuando habrá otro examen en la unam"
+      ],
+      "responses": [
+        "La Universidad realiza su proceso de admisión dos veces al año conforme al calendario académico anual de la UNAM, aprobado por la Comisión Organizadora."
+      ]
+    },
+
+    {
+      "tag": "articulo8",
+      "patterns": [
+        "Que información me brinda el prospecto de admisión",
+        "como adquiero el prospecto de admisión",
+        "como obtengo el prospecto de admisión",
+        "que información se incluye en el prospecto de admisión",
+        "me enviarán el prospecto de admisión a mi correo",
+        "Es necesario comprar el prospecto para postular",
+        "Dónde se publica el prospecto de admisión",
+        "que información encuentro en el prospecto de admisión",
+        "cual es el contenido del prospecto de admisión",
+        "información del prospecto",
+        "donde encuentro el prospecto de admisión",
+        "como puedo obtener el prospecto de admisión",
+        "donde consigo información sobre el proceso de admisión",
+        "como puedo acceder al prospecto de admisión"
+      ],
+      "responses": [
+        "El prospecto de admisión contiene toda la información relacionada con el Concurso de Admisión, es indispensable y forma parte del servicio prestado, el cual será adquirido vía internet en la página web institucional de la Universidad y será remitido a los correos registrados por los postulantes. "
+      ]
+    },
+
+    {
+      "tag": "articulo9",
+      "patterns": [
+        "El examen se realizara en línea o presencial",
+        "El examen de admisión será en línea o presencial",
+        "Se realizará el examen de admisión de forma virtual",
+        "Se ha decidido si el examen de admisión será en línea o presencial",
+        "El examen de admision será a distancia",
+        "el examen de admisión se llevará a cabo de forma virtual o presencial",
+        "se realizara el examen de admisión de manera remota",
+        "será el examen en líneo o presencial",
+        "el examen sera online",
+        "el examen de la UNAM será presencial o en línea",
+        "el examen sera presencial",
+        "puedo dar el examen virtual"
+      ],
+      "responses": [
+        "El Concurso de Admisión 2024-I se llevará a cabo de manera presencial según el Reglamento de Examen General del Proceso de Admisión."
+      ]
+    },
+
+    {
+      "tag": "articulo11",
+      "patterns": [
+        "Cuáles son las modalidades de concurso de admisión a la Universidad",
+        "que metodos existen para ingresar a la universidad",
+        "que modalidades hay para ingresar a la UNAM",
+        "cuales son las alternativas de ingreso a la universidad",
+        "Existe más de una modalidad para el concurso de admisión",
+        "Hay diferentes formas de ingresar a la Universidad",
+        "Qué opciones tengo para el concurso de admisión",
+        "Cuántas y cuáles son las modalidades de ingreso a la Universidad",
+        "Cuáles son las modalidades de ingreso",
+        "modalidades de ingreso UNAM",
+        "modalidades de examen de admisión",
+        "modalidades de ingreso a la universidad",
+        "diferentes formas del concurso de admisión",
+        "opciones de ingreso a la universidad",
+        "que alternativas existen para ingresar a la UNAM",
+        "cuantas formas hay de ingresar a la UNAM"
+      ],
+      "responses": [
+        "El concurso de admisión a la Universidad se efectúa en tres modalidades: CEPREUNAM, Examen Extraordinario y Examen Ordinario."
+      ]
+    },
+    {
+      "tag": "articulo12",
+      "patterns": [
+        "puedo postular al examen ordinario",
+        "a quienes se les permite participar del examen ordinario general",
+        "quienes pueden presentar el examen ordinario",
+        "quienes pueden dar el examen ordinario general",
+        "que personas pueden rendir el examen ordinario",
+        "que personas pueden optar por el examen ordinario",
+        "Quiénes pueden postular al Examen Ordinario General",
+        "Quiénes pueden postular al examen Ordinario",
+        "quienes tienen autorización para participar en el examen ordinario",
+        "quienes pueden postular al examen ordinario general",
+        "donde debo realizar mi preinscripcion para el examen ordinario",
+        "Cómo hago mi preinscripción para participar del examen ordinario",
+        "Qué documentos necesito para la preinscripción al examen de admisión",
+        "Dónde se hace la preinscripción para el examen de admisión ordinario",
+        "donde realizo mi preinscripción para el examen ordinario",
+        "tamaño de fotografía para inscribirme para el examen ordinario",
+        "tipo de fotografía para inscribirme para el examen ordinario",
+        "cual es el formato de fotografia para inscribirme para el examen ordinario ",
+        "cual es el formato de la foto",
+        "cual es el tamaño de la foto",
+        "articulo 12",
+        "que dice el articulo 12",
+        "donde encuentro el articulo 12",
+        "articulo12"
+      ],
+      "responses": [
+        "La modalidad del Examen Ordinario general está orientada para los egresados de educación secundaria (debidamente acreditado). Los postulantes a la universidad por esta modalidad deberán realizar su preinscripción a  través  de la plataforma virtual en la página Web de la UNAM https://unam.edu.pe/admision/ , adjuntando en formato PDF, los siguientes documentos: \n a) Certificado de estudios de educación secundaria (digital con código QR y código virtual) o constancia de logros de aprendizaje emitidas por el ministerio de educación. \n b) Fotografía actual a color, tamaño carnet, en fondo blanco (formato JPG). \n c) Declaración jurada, que cumple con los requisitos establecidos en el estatuto de la UNAM para ingresar a la Universidad por el Concurso de Admisión (Formato N° 1 de la sección de anexos). \n d) Documento de identificación DNI o certificado de Inscripción C4 (Formato PDF anverso 1 página y reverso 1 pagina) ."
+      ]
+    },
+
+    {
+      "tag": "articulo13",
+      "patterns": [
+        "cuales son los requisitos para acceder modalidad de ingreso CEPREUNAM",
+        "que necesito para participar del proceso de admisión a traves de CEPREUNAM",
+        "como funciona el ingreso a la universidad mediante CEPREUNAM",
+        "cual es el procedimiento para ingresar por la modalidad CEPREUNAM",
+        "que se necesita para ingresar a la UNAM por CEPREUNAM",
+        "que requiero para participar en el proceso de admisión a traves de CEPREUNAM",
+        "Cómo es el ingreso a la Universidad a través de CEPREUNAM",
+        "Cómo ingreso por la modalidad de CEPREUNAM",
+        "Cuales son los requisitos para ingresar a la universidad por CEPREUNAM",
+        "Es diferente el proceso de ingreso por CEPREUNAM",
+        "Hay un proceso especial para quienes ingresan por CEPREUNAM"
+      ],
+      "responses": [
+        "Para acceder a la modalidad de ingreso por CEPREUNAM, el postulante debe estar matriculado en el Centro Preuniversitario de la Universidad Nacional de Moquegua (CEPRE) y rendir un examen de conocimientos. Para el proceso de admisión 2024-I el CEPRE dispone de dos fases y el número de vacantes está establecido en la tabla N°1. del Reglamento general de admisión 2024-I o ingresando al siguiente link: https://unam.edu.pe/wp-content/uploads/2024/02/REGLAMENTO_EXAMEN_GENERAL_%20ADMISION_2024_ACTUALIZADO.pdf"
+      ]
+    },
+
+    {
+      "tag": "articulo14",
+      "patterns": [
+        "cual es el número de vacantes disponibles si participo por CEPREUNAM",
+        "cual es el número de vacantes por modalidad CEPREUNAM",
+        "cuantas fases son en CEPREUNAM",
+        "fases del CEPREUNAM",
+        "cual es el número de vacantes por CEPREUNAM",
+        "cuantas vacantes hay por la modalidad CEPREUNAM",
+        "cual es la disponibilidad de vacantes para cada escuela en la modalidad CEPREUNAM",
+        "Cómo se informa sobre el número de vacantes para CEPREUNAM",
+        "Dónde puedo encontrar las vacantes disponibles para cada escuela profesional",
+        "Con cuánta antelación se publican las vacantes para CEPREUNAM",
+        "Se actualiza la información de vacantes para CEPREUNAM en cada ciclo de estudios",
+        "En qué plataforma se anuncian las fases y vacantes de CEPREUNAM",
+        "como se distribuyer las vacantes de CEPREUNAM",
+        "vacantes ofrecidas por CEPREUNAM"
+      ],
+      "responses": [
+        "El número de fases en cada proceso, así como el número de vacantes disponibles para cada escuela profesional de las que dispone la modalidad por CEPREUNAM son publicadas en la web UNAM previo a cada inicio del ciclo de estudios. "
+      ]
+    },
+
+    {
+      "tag": "articulo15",
+      "patterns": [
+        "que personas pueden optar por el examen extraordinario",
+        "quienes tienen la posibilidad de ingresar por modalidad del examen extraordinario",
+        "a quienes se les permite participar del examen extraordinario",
+        "que personas pueden elegir dar el examen extraordinario",
+        "Quiénes pueden dar el Examen Extraordinario",
+        "Pueden los titulados universitarios postular por Examen Extraordinario",
+        "Los primeros puestos de secundaria pueden dar el Examen Extraordinario",
+        "Los egresados del COAR pueden dar el Examen Extraordinario",
+        "Los deportistas calificados tienen acceso al Examen Extraordinario",
+        "Pueden postular por Examen Extraordinario las víctimas del terrorismo",
+        "Los traslados internos y externos entran en el Examen Extraordinario",
+        "Los traslados internos entran en el Examen Extraordinario",
+        "Los traslados externos entran en el Examen Extraordinario",
+        "Los traslados externos pueden participar en el Examen Extraordinario",
+        "Los traslados internos pueden participar en el Examen Extraordinario",
+        "cuales son las personas que pueden optar por el examen extraordinario",
+        "a quienes se les permite participar del examen extraordinario",
+        "los egresados COAR pueden participar del examen extraordinario",
+        "los translados internos pueden ingresar por Examen Extraordinario",
+        "Los traslados externos tienen la opción de presentar el Examen Extraordinario",
+        "Tienen derecho los primeros puestos de secundaria a dar el Examen Extraordinario",
+        "soy egresado COAR que modalidad me corresponde",
+        "soy deportista calificado que examen debo dar",
+        "si termine en primer o segundo puesto que examen me corresponde"
+      ],
+      "responses": [
+        "La modalidad del Examen Extraordinario es para titulados o graduados universitarios, traslados externos e internos, primeros puestos de secundaria ,egresados de los Colegios de Alto Rendimiento(COAR), deportistas calificados, personas con discapacidad, víctimas del terrorismo y bajo el Convenio Andrés Bello." 
+      ]
+    },
+    {
+          "tag": "articulo16",
+          "patterns": [
+            "¿Qué documentos necesito si tengo un título Profesional para el examen extraordinario?",
+            "¿Que documentos debo presentar si tengo titulo profesional?",
+            "¿Que requisitos debo presentar si tengo titulo profesional?",
+            "¿Que documentos debo presentar si tengo bachiller?",
+            "¿Que requisitos debo presentar si tengo bachiller?",
+            "¿Si tengo bachiller a que examen tengo derecho de postular?",
+            "¿Si tengo titulo profesional a que tipo de examen puedo postular?",
+            "¿Si tengo bachiller que documentos debo presentar?",
+            "¿Si tengo titulo profesional que documentos debo presentar?",
+            "¿Puedo participar del examen de admision si mi titulo profesional es del extranjero?",
+            "¿Para el examen extraordinario necesito presentar una copia fedateada o notariada de mi bachiller?",
+            "¿Puedo participar si el grado academico de bachiller he obtenido en la Policia Nacional del Perú?",
+            "¿Puedo participar si el titulo profesional lo he obtenido en la Policia Nacional del Perú?",
+            "¿Puedo participar si he obtenido el grado academico de bachiller en las fuerzas armadas?",
+            "¿Que debo presentar si mi título es de otro país?",
+            "¿Debo revalidar mi título extranjero para el examen extraordinario?",
+            "¿Qué documentos adicionales debo presentar si soy titulado?",
+            "¿Cómo valido mi título para el examen extraordinario?",
+            "¿Qué requisitos necesito para dar el examen extraordinario?",
+            "¿Que documento debo presentar si tengo un título?",
+            "¿Cómo debe ser la foto para modalidad de graduados o titulados?",
+            "¿Cómo debe ser la fotografia para modalidad de graduados o titulados?",
+            "¿Cómo debe ser la foto si tengo bachiller?",
+            "¿Cómo debe ser la foto si tengo titulo?",
+            "¿Cómo debe ser la fotografia si tengo bachiller?",
+            "¿Cómo debe ser la fotografia si tengo titulo?",
+            "¿Cómo debe ser la foto para modalidad de graduados?",
+            "¿Puedo postular al examen extraordinario si ya soy titulado?",
+            "¿Si soy titulado en el extranjero puedo participar en el examen de admisión?",
+            "¿Que requisitos debo presentar si mi titulo es del extranjero?",
+            "¿Si soy egresado del cuartel puedo postular a la unam?",
+            "¿Si soy egresado y tengo titulo profesional de la la Policia Nacional del Perú puedo postular a la unam?",
+            "¿Si soy egresado y tengo titulo profesional de las fuerzas armadas puedo postular a la unam?"
+          ],
+          "responses": [
+            "Los postulantes por la modalidad de examen extraordinario que tengan Título Profesional o Grado Académico de Bachiller otorgado por una universidad del Perú o del extranjero, deberán acreditar su condición de tal, presentando a través de la plataforma virtual  de admisión, en formato PDF, los siguientes documentos: \n - Copia (fedateada o notariada) del Título o grado académico que posee. Si la universidad es de origen extranjera deberá presentar el título o grado académico revalidado por la SUNEDU. Se incluye el título o grado obtenido en Escuelas de Oficiales de las Fuerzas Armadas y de la Policía Nacional. \n - Los documentos requeridos en el Artículo 12º del presente reglamento con excepción de los incisos “a” y “c”. \n - Formatos de declaraciones juradas N°12 y N°13 que figuran en la sección de anexos."
+          ]
+        },
+        
+        {
+          "tag": "articulo17",
+          "patterns": [
+            "¿Que requisitos son los que debo presentar para traslado externo?",
+            "¿Si he sido sancionado por falta grave puedo postular al examen admisión como traslado externo?",
+            "¿Si he sido sancionado puedo postular al examen admision como traslado externo?",
+            "¿Qué documentos necesito para inscribirme en la modalidad de traslado externo?",
+            "¿Si tengo antecedentes penales puedo participar del proceso de admisión por traslado externo?",
+            "¿Si tengo antecedentes penales puedo realizar traslado externo?",
+            "¿Cómo acredito mi condición para el traslado externo?",
+            "¿Se requiere algún certificado especial para el traslado externo?",
+            "¿Cómo presento mis documentos para el traslado externo?",
+            "¿Es necesario tener un cierto número de créditos para el traslado externo?",
+            "¿Cuantos créditos necesito para el traslado externo?",
+            "¿Debo tener un mínimo de semestres aprobados para el traslado externo?",
+            "¿Qué se necesita para el traslado externo?",
+            "¿Debo presentar certificado de estudio cuando es traslado externo?",
+            "¿Es necesario tener un cierto número de créditos para el traslado externo?",
+            "¿Cómo debe ser la fotografia para traslado externo?",
+            "¿Cómo debo tomar la fotografia para realizar mi traslado externo?",
+            "¿Cómo debe ser la foto para traslado externo?",
+            "¿Cómo debo tomar la fotografia para realizar mi traslado externo?"
+          ],
+          "responses": [
+            "Para inscribirse virtualmente, como postulante en la modalidad de traslado externo, deberán acreditar su condición de tal, presentando a través de la plataforma virtual  de admisión, en formato PDF, los siguientes documentos: \n a) Certificado de estudios universitarios (fedateado por la Universidad de origen) que acrediten haber aprobado por lo menos cuatro periodos lectivos semestrales o dos anuales o setenta y dos (72) créditos. \n b) Los documentos requeridos en el Artículo 12º del presente reglamento con excepción de los incisos “a” y “c”. \n c) Declaración Jurada de no tener antecedentes penales según formato N°15 que figuran en la sección de anexos. \n d) Declaración Jurada de no haber sido separado de su institución de procedencia por medida disciplinaria o falta grave, según formato N°16 que figuran en la sección de anexos."
+          ]
+        },
+        
+        {
+          "tag": "articulo18",
+          "patterns": [
+            "¿Que documentos debo presentar para el traslado interno y participar del examen?",
+            "¿Qué documentos necesito para inscribirme en la modalidad de traslado interno?",
+            "¿Que requisitos son los que debo presentar para traslado interno?",
+            "¿Para participar del examen y soy de traslado interno que requisitos debo presentar?",
+            "¿Qué necesito para inscribirme en traslado interno?",
+            "¿Que debo presentar para el traslado interno?",
+            "¿Que debo presentar para la modalidad de traslado interno?",
+            "¿Cómo se realiza la inscripción para el traslado interno?",
+            "¿Qué documentos son necesarios para el traslado interno?",
+            "¿Es necesario un certificado de estudios secundarios para el traslado interno?",
+            "¿Debo presentar certificado de estudio cuando es traslado interno?",
+            "¿Debo presentar algún certificado de la UNAM para el traslado interno?",
+            "¿Qué declaraciones juradas son necesarias para el traslado interno?",
+            "¿Que formatos debo completar para traslado interno?",
+            "¿Que formatos debo llenar para traslado interno?",
+            "¿Cómo debe ser la fotografia para traslado interno?",
+            "¿Cómo debo tomar la fotografia para realizar mi traslado interno?",
+            "¿Cómo debe ser la foto para traslado interno?",
+            "¿Cómo debo tomar la foto para realizar mi traslado interno?"
+          ],
+          "responses": [
+            "Para inscribirse virtualmente, como postulante en la modalidad de traslado interno deberán acreditar su condición de tal, presentando a través de la plataforma virtual de admisión, en formato PDF, los siguientes documentos: \n a) Certificado de estudios de Educación Secundaria o Constancia de conformidad de Documentos, emitida por la Dirección de Actividades y Servicios Académicos (DASA). \n b) Certificado de estudios universitarios que acrediten haber aprobado por lo menos cuatro periodos lectivos semestrales o dos anuales o setenta y dos (72) créditos en la escuela profesional de origen. \n c) Declaración jurada de no haber sido sancionado y no tener proceso disciplinario en trámite en la UNAM, según formato N°18 que figuran en la sección de anexos. \n d) Declaración Jurada de no adeudo de bienes y material bibliográfico de la UNAM, según formato N°19 que figuran en la sección de anexos. \n e) Los documentos requeridos en el Artículo 12º del presente reglamento con excepción de los incisos “a” y “c”."
+          ]
+        },
+        
+        {
+          "tag": "articulo19",
+          "patterns": [
+            "¿Quiénes no pueden hacer traslado interno?",
+            "¿Puedo realizar traslado interno si ya realice traslado antes?",
+            "¿Puedo realizar traslado interno si ya realice traslado anteriormente?",
+            "¿Puedo realizar traslado interno dos veces?",
+            "¿Cuantas veces puedo hacer traslado interno?",
+            "¿Si ingrese por otra metodología puedo realizar traslado interno?",
+            "¿En que casos no puedo realizar traslado interno?",
+            "¿Puedo volver a realizar traslado interno?",
+            "¿Hay restricciones para el traslado interno?",
+            "¿Puedo hacer traslado interno si ya tengo un título profesional?",
+            "¿Se permite el traslado interno si ya hice uno antes?",
+            "¿Qué pasa si he sido separado temporalmente de la UNAM?",
+            "¿Puedo trasladarme internamente si fui separado por desaprobar una materia?"
+          ],
+          "responses": [
+            "Los estudiantes no tendrán derecho al traslado interno en los casos siguientes: \n a) Aquellos que ya hayan ingresado por tener grado académico o título profesional, o por traslado externo. \n b) Aquellos que ya hayan realizado su traslado interno anteriormente. \n c) Aquellos comprendidos en el Art. 102 de la Ley Universitaria N° 30220, quienes, habiéndose desaprobado una misma materia por tres veces, hayan sido separados temporalmente de la Universidad Nacional de Moquegua."
+          ]
+        },
+        
+        {
+          "tag": "articulo20",
+          "patterns": [
+            "¿Cómo me exonero del Concurso de Admisión Ordinario si fui primero o segundo en mi colegio?",
+            "¿Cómo me exonero del examen de Admisión si obtuve el primer o segundo puesto en mi colegio?",
+            "¿Cómo me exonero del examen de Admisión si obtuve el primer puesto en mi colegio?",
+            "¿Cómo me exonero del examen de Admisión si obtuve el segundo puesto en mi colegio?",
+            "¿Cómo me exonero del examen ordinario si obtuve el primer puesto en mi colegio?",
+            "¿Cómo me exonero del Concurso de Admisión Ordinario si obtuve el primer o segundo puesto en mi colegio?",
+            "¿Cómo me exonero del Concurso de Admisión Ordinario si obtuve el primer puesto en mi colegio?",
+            "¿Cómo me exonero del Concurso de Admisión Ordinario si obtuve el segundo puesto en mi colegio?",
+            "¿Qué debo presentar si ocupe los primeros puestos en el colegio?",
+            "¿Por ocupar primer puesto en mi colegio doy un examen separado?",
+            "¿Si ocupe los primeros puestos en mi colegio debo dar el examen ordinario?",
+            "¿Si ocupe el primer puesto en mi colegio debo dar el examen ordinario?",
+            "¿Si ocupe el segundo puesto en mi colegio debo dar el examen ordinario?",
+            "¿Solo puedo postular una vez por la metodología de primeros puestos?",
+            "¿Qué documentos presento para la exoneración por mérito académico en secundaria?",
+            "¿Qué necesito para acreditar haber ocupado los primeros puestos en secundaria?",
+            "¿Cómo demuestro que no he usado antes el derecho de admisión por mérito?",
+            "¿Qué documentos adicionales requiero para la exoneración del Concurso de Admisión?",
+            "¿Cómo debe ser la fotografia para modalidad de primeros puestos?",
+            "¿Cómo debo tomar la fotografia para primeros puestos?",
+            "¿Cómo debe ser la foto para modalidad de primeros puestos?",
+            "¿Cómo debo tomar la foto para primeros puestos?"
+          ],
+          "responses": [
+            "En el caso de los postulantes que quieran acogerse a la exoneración del Concurso de Admisión Ordinario por haber ocupado los dos (02) primeros puestos de su respectivo Centro Educativo de Nivel Secundario en los dos últimos años (2022 o 2023), deberán acreditar su condición de tal, presentando a través de la plataforma virtual de admisión, en formato PDF, los siguientes documentos: \n a) Constancia o Certificado (original) otorgado por el director del Centro Educativo del cual procede, que acredite el orden de mérito en el que se encuentra y evidencie haber concluido los estudios secundarios en el año 2022 o 2023. \n b) Declaración Jurada de no haber hecho uso del derecho de admisión del primer o segundo puesto en ninguna Universidad pública o privada a nivel nacional, según formato N°3 que figura en la sección de anexos. \n c) Los documentos requeridos en el Artículo 12° del presente reglamento."
+          ]
+        },
+        
+        {
+          "tag": "articulo21",
+          "patterns": [
+            "¿Qué documentos debo presentar si soy egresado del COAR?",
+            "¿Qué debo presentar para acreditar que soy del COAR?",
+            "¿Qué trámite debo realizar si soy egresado del COAR?",
+            "¿Qué requisitos debo cumplir si soy egresado del COAR?",
+            "¿Que examen me corresponde dar si soy egresado del COAR?",
+            "¿Qué documentos debo presentar para poder participar del examen de admisión si soy egresado del COAR?",
+            "¿Qué necesitan los egresados de Colegios de Alto Rendimiento para postular al examen extraordinario?",
+            "¿Qué necesito presentar para postular si soy alumno del COAR?",
+            "¿Si estudie en el COAR debo dar un examen diferente?",
+            "¿Cómo acreditan su condición los egresados de Colegios de Alto Rendimiento?",
+            "¿Cuales son los requisitos que debo cumplir para participar del examen de admision si sy egresado del COAR?",
+            "¿Qué documentos presentan los egresados de Colegios de Alto Rendimiento?",
+            "¿Deben los egresados de Colegios de Alto Rendimiento hacer una declaración jurada?",
+            "¿Cómo demuestran los egresados de Colegios de Alto Rendimiento que no usaron esta modalidad antes?",
+            "¿Qué documentación adicional requieren los egresados de Colegios de Alto Rendimiento?",
+            "¿Cómo debe ser la fotografia para la modalidad de alumnos COAR?",
+            "¿Cómo debo tomar la fotografia para la modalidad de alumnos COAR?",
+            "¿Cómo debe ser la foto para alumnos del colegio de alto rendimiento?",
+            "¿Cómo debo tomar la foto para alumnos del colegio de alto rendimiento?",
+            "¿Cómo debe ser la fotografia para la modalidad de alumnos del colegio de alto rendimiento?",
+            "¿Cómo debo tomar la fotografia para la modalidad de alumnos del colegio de alto rendimiento?",
+            "¿Cómo debe ser la foto para modalidad de alumnos COAR?",
+            "¿Cómo debo tomar la foto para alumnos COAR?"
+          ],
+          "responses": [
+            "Los egresados de los Colegios de Alto Rendimiento en los dos últimos años (2022 o 2023), podrán postular al examen extraordinario 2024-I, deberán acreditar su condición de tal, presentando a través de la plataforma virtual de admisión, en formato PDF, los siguientes documentos: \n a) Constancia de haber egresado de un Colegio de Alto Rendimiento en el año 2022 o 2023, expedido por el colegio de origen. \n d) Declaración Jurada de no haber hecho uso de esta modalidad en otras Universidades, según formato N°8 que figura en la sección de anexos. \n e) Los documentos requeridos en el Artículo 12º del presente reglamento."
+          ]
+        },
+        
+        {
+          "tag": "articulo22",
+          "patterns": [
+            "¿Qué documentos debo presentar si soy deportista calificado?",
+            "¿Qué debo presentar para acreditar que soy deportista calificado?",
+            "¿Qué requisitos debo cumplir si soydeportista calificado?",
+            "¿Cuáles son los requisitos que debo presentar para presentarme al examen de admisión si soy deportista calificado?",
+            "¿Cuáles son los documentos que debo presentar para rendir el examen de admisión si soy deportista calificado?",
+            "¿Qué necesitan los deportistas calificados para postular a la universidad?",
+            "¿Cómo acreditan su condición los deportistas calificados?",
+            "¿Qué documentos deben presentar los deportistas calificados?",
+            "¿Deben los deportistas hacer alguna declaración jurada?",
+            "¿Qué compromisos deben asumir los deportistas calificados?",
+            "¿Qué documentación adicional requieren los deportistas calificados?",
+            "¿Como demuestro que soy deportista calificado?"
+          ],
+          "responses": [
+            "Los deportistas calificados de nacionalidad peruana debidamente reconocidos en el ámbito regional, nacional e internacional, que acrediten su condición de seleccionado nacional y/o haber participado dentro de los dos últimos años en certámenes nacionales y/o internacionales, tienen derecho de solicitar ingreso a la universidad mediante esta modalidad. Deberán acreditar su condición de tal, presentando a través de la plataforma virtual de admisión, en formato PDF, los siguientes documentos: \n a) Resolución emitida por el presidente del Instituto Peruano del Deporte o quien haga sus veces y alternativamente del director del IPD de la localidad. \n b) Declaración jurada de no haber sido sancionado por falta grave o actividades antideportivas por losTribunales o Comisión de Justicia de la Federación o Comisión Nacional respectiva, según formato N°10 que figura en la sección de anexos. \n c) Documento de compromiso de participación en la representación del equipo de la universidad en el deporte de su especialidad, y en todos los eventos deportivos en que la universidad lo requiera, según formato N°12 que figura en la sección de anexos. \n d) Los documentos requeridos en el Artículo 11° del presente reglamento."
+          ]
+        },
+        
+        {
+          "tag": "articulo23",
+          "patterns": [
+            "¿Qué documentos debo presentar si tengo alguna discapacidad?",
+            "¿Qué debo presentar para acreditar que soy una persona con discapacidad?",
+            "¿Qué requisitos debo cumplir si soy una persona con discapacidad?",
+            "¿Que examen me corresponde dar si soy una persona con discapacidad?",
+            "¿Cuáles son los requisitos para presentarme al examen si soy una persona con discapacidad?",
+            "¿Qué documentos debo presentar para poder participar del examen de admisión si tengo alguna discapacidad?",
+            "¿Qué necesitan las personas con discapacidad para postular a la universidad?",
+            "¿Recibo algun apoyo si soy una persona con discapacidad?",
+            "¿Si presento alguna discapacidad como puedo postular?",
+            "¿Cómo acreditan su condición las personas con discapacidad?",
+            "¿Qué documentos deben presentar las personas con discapacidad?",
+            "¿Hay algún apoyo especial para personas con discapacidad en el examen?",
+            "¿Cómo comunican las personas con discapacidad su necesidad de apoyo en el examen?",
+            "¿Qué documentación adicional requieren las personas con discapacidad?",
+            "¿Cómo debe ser la fotografia para personas con discapacidad?",
+            "¿Cómo debo tomarme la fotografia si soy una persona con discapacidad?",
+            "¿Cómo debe ser la foto para modalidad de personas con discapacidad?",
+            "¿Cómo debo tomar la foto si soy una persona con discapacidad?",
+            "¿Debo presentar obligatoriamente mi carnet del CONADIS para postular como persona con discapacidad?",
+            "¿Que pasa si no tengo mi carnet CONADIS y quiero postular por modalidad de persona con discapacidad?",
+            "¿Es necesario el carnet CONADIS para postular por modalidad de persona con discapacidad?",
+            "¿Si soy una persona con discapacidad pero no tengo mi carnet de CONADIS puedo postular?"
+          ],
+          "responses": [
+            "En cumplimiento del Artículo 38º de la Ley 29973, Ley General de la persona con discapacidad, la universidad reserva el 5% de las vacantes autorizadas, para personas con discapacidad, quienes accederán a este centro de estudios. Deberán acreditar su condición de tal, presentando a través de la plataforma virtual de admisión, en formato PDF, los siguientes documentos: \n a) Carnet expedido por el Consejo Nacional para la Integración de la persona con Discapacidad (CONADIS) ó Resolución de Presidencia de Inscripción al registro de Personas con Discapacidad. \n b) Los documentos requeridos en el Artículo 12° del presente reglamento. \n El postulante que requiera un apoyo especial para rendir el examen comunicará oportunamente a la dirección de admisión para el acondicionamiento del área o brindar el soporte según su necesidad, hasta el cierre de inscripciones, al correo: admision@unam.edu.pe."
+          ]
+        },
+        
+        {
+          "tag": "articulo24",
+          "patterns": [
+            "¿Qué documentos debo presentar si soy víctima de terrorismo?",
+            "¿Qué debo presentar para acreditar que soy víctima de terrorismo?",
+            "¿Qué requisitos debo cumplir si soy víctima de terrorismo?",
+            "¿Qué requisitos debo cumplir para dar el examen de admision si soy víctima de terrorismo?",
+            "¿Que examen me corresponde dar si soy víctima de terrorismo?",
+            "¿Cuáles son los requisitos para presentarme al examen de admision si soy víctima de terrorismo?",
+            "¿Cuáles son los documentos que debo presentar para participar en el examen de admisión si soy víctima de terrorismo?",
+            "¿Qué documentos debo presentar para poder participar del examen de admisión si soy victima de terrorismo?",
+            "¿Qué necesitan los postulantes víctimas de terrorismo para postular a la universidad?",
+            "¿Cómo demuestro que fui víctima de terrorismo?",
+            "¿Cómo puedo postular si fui víctima de terrorismo?",
+            "¿Cómo acreditan su condición los postulantes víctimas de terrorismo?",
+            "¿Qué documentos deben presentar los postulantes víctimas de terrorismo?",
+            "¿Deben hacer alguna declaración jurada los postulantes víctimas de terrorismo?",
+            "¿Qué documentación adicional requieren los postulantes víctimas de terrorismo?",
+            "¿Cómo demuestran los postulantes víctimas de terrorismo que no han usado este derecho antes?",
+            "¿Cómo debe ser la fotografia para las víctimas de terrorismo?",
+            "¿Cómo debo tomarme la fotografia si soy víctima de terrorismo?",
+            "¿Cómo debe ser la foto para modalidad de víctimas de terrorismo?",
+            "¿Cómo debo tomar la foto si soy víctima de terrorismo?"
+          ],
+          "responses": [
+            "En el caso de los postulantes de víctimas de terrorismo, previstas en la Ley Nº 27277 – Ley que establece vacantes de ingreso a las Universidades para víctimas de terrorismo, para inscribirse como postulante, deberá presentar a través de la plataforma virtual de admisión, en formato PDF, los siguientes documentos: \n a) Constancia del Consejo Nacional de Calificación, según Art. 2° del D.S. N° 051- 88-PCM, o Dirección de Bienestar de la Policía Nacional del Perú, o Comando Conjunto de las Fuerzas Armadas, que acredite su situación como tal. \n b) Declaración Jurada de no haber hecho uso de este derecho o modalidad en otra Universidad del país. \n c) Los documentos requeridos en el Artículo 12° del presente reglamento."
+          ]
+        },
+        
+        {
+          "tag": "articulo25",
+          "patterns": [
+            "¿Qué documentos debo presentar si soy beneficiario del Plan Integral de Reparaciones?",
+            "¿Qué debo presentar para acreditar si soy beneficiaria del Plan Integral de Reparaciones?",
+            "¿Cómo postulan al examen los beneficiarios del Plan Integral de Reparaciones?",
+            "¿Qué requisitos debo cumplir si soy beneficiario del Plan Integral de Reparaciones?",
+            "¿Qué documentos necesitan los postulantes del Plan Integral de Reparaciones?",
+            "¿Que examen me corresponde dar si soy beneficiaria del Plan Integral de Reparaciones?",
+            "¿Cuáles son los documentos que debo presentar para participar en el examen de admisión si soy beneficiaria del Plan Integral de Reparaciones?",
+            "¿Qué requisitos debo cumplir para dar el examen de admision si soy beneficiaria del Plan Integral de Reparaciones?",
+            "¿Qué constancia deben presentar los postulantes del Plan Integral de Reparaciones?",
+            "¿Es necesaria una declaración jurada para postular bajo el Plan Integral de Reparaciones?",
+            "¿Qué otros documentos se requieren para postular bajo el Plan Integral de Reparaciones?",
+            "¿Cómo acredito ser beneficiario del Plan Integral de Reparaciones para postular?",
+            "¿Cómo debe ser la fotografia para postulantes del Plan Integral de Reparaciones?",
+            "¿Cómo debo tomarme la fotografia si soy beneficiario del Plan Integral de Reparaciones?",
+            "¿Cómo debe ser la foto para modalidad de postulantes del Plan Integral de Reparaciones?",
+            "¿Cómo debo tomar la foto si soy postulante del Plan Integral de Reparaciones?"
+          ],
+          "responses": [
+            "Los postulantes por el Plan Integral de Reparaciones, previstas en la Ley Nº 28592, podrán postular al examen 2024-I, presentando a través de la plataforma virtual de admisión, en formato PDF, los siguientes documentos: \n a) Constancia del Consejo Nacional de Calificación, expedido por el Consejo de Reparaciones de la Presidencia del Consejo de ministros (PCM), según la Ley N° 28592, presentando los documentos oficiales. Este beneficio es sólo para pregrado y para los titulares beneficiados, según D.S. Nº 001- 2016- JUS, que modifica el Art. 18 del Reglamento de la ley 28592. \n b) Declaración Jurada de no haber accedido a educación superior no universitaria o universitaria haciendo valer su calidad de Víctima, según el Plan Integral de Reparaciones, según formato N°6 que figura en la sección de anexos. \n c) Los documentos requeridos en el artículo 12° del presente Reglamento."
+          ]
+        },
+        
+        {
+          "tag": "articulo26",
+          "patterns": [
+            "¿Qué documentos debo presentar si participo por el Convenio Andres Bello?",
+            "¿Qué requisitos debo cumplir si participo por el Convenio Andres Bello?",
+            "¿Qué requisitos debo cumplir para dar el examen de admision si participo por el Convenio Andres Bello?",
+            "¿Que examen me corresponde dar si participo por el Convenio Andres Bello?",
+            "¿Cuáles son los requisitos para presentarme al examen de admisión si participo por el Convenio Andres Bello?",
+            "¿Cuáles son los documentos que debo presentar para participar en el examen de admisión si participo por el Convenio Andres Bello?",
+            "¿Qué documentos debo presentar para poder participar del examen de admisión si participo por el Convenio Andres Bello?",
+            "¿Qué documentos necesito para postular por el Convenio Andrés Bello?",
+            "¿Cómo acredito mis estudios secundarios del extranjero para postular?",
+            "¿Qué constancia se requiere para postular por el Convenio Andrés Bello?",
+            "¿Necesito algún documento especial si nací en el extranjero?",
+            "¿Qué documentos adicionales se requieren para postulantes del Convenio Andrés Bello?",
+            "¿Cómo postulo al examen 2024_I bajo el Convenio Andrés Bello?",
+            "¿Cómo debe ser la fotografia si participo por el Convenio Andres Bello?",
+            "¿Cómo debo tomarme la fotografia si soy beneficiario del Plan Integral de Reparaciones?",
+            "¿Cómo debe ser la foto para modalidad del Convenio Andrés Bello?",
+            "¿Cómo debo tomar la foto si soy postulante del Convenio Andrés Bello?",
+	          "¿Cuáles son las condiciones para participar del examen por el Convenio Andrés Bello?",
+	          "¿Qué papeles debo presentar para postular por el Convenio de Andrés Bello?",
+	          "¿Cuántos documentos hacen falta para postular por el Convenio de Andrés Bello?",
+	          "¿Qué expedientes debo cumplir para dar el examen si participo por el Convenio de Andrés Bello?",
+	          "¿Cuáles son los expedientes que debo presentar para dar el examen por el Convenio de Andrés Bello?"
+          ],
+          "responses": [
+            "Los postulantes por el Convenio Andrés Bello, según el D.S. N° 012-99-ED, podrán postular al examen 2024-I, presentando a través de la plataforma virtual de admisión, en formato PDF, los siguientes documentos: \n a) Certificado de convalidación y/o revalidación de estudios, emitido por el Ministerio de Educación del Perú (MINEDU). \n b) Certificado de estudios secundarios acreditado por la entidad educativa oficial del país de procedencia (Ministerio de Educación o quien haga sus veces) y, si fuera el caso, traducido al español. \n c) Partida de Nacimiento (si el alumno nació en el extranjero, apostillado por el país de procedencia o legalizada por el consulado peruano en dicho país), o Pasaporte o Carne de Extranjería. \n d) Los documentos requeridos en el artículo 12° del presente Reglamento con excepción del inciso “a” y “e” lllenado del formato N°21 de la sección de anexos."
+          ]
+        },  
+    {
+      "tag": "articulo27_fecha_inscripción",
+      "patterns": [
+        "hasta que fecha puedo inscribirme al examen UNAM",
+        "fecha de inscripción del proceso de admisión",
+        "hasta que fecha puedo inscribirme",
+        "plazo de inscripciones",
+        "ultimo día de inscripción",
+        "cuando debo inscribirme para el examen de admisión",
+        "cuales son las fechas para inscribirme",
+        "en que fechas puedo inscribirme",
+        "cual es el plazo de inscripciones",
+        "hay alguna fecha límite para inscribirme",
+        "cuando se abre el proceso de inscripción"
+      ],
+      "responses": [
+        "Las fechas de inscripción al examen de admisión de la UNAM varían. Consulta el sitio web oficial para conocer los plazos actuales.  \n \n Para el 2024-I fue del 29 de enero al 08 de marzo."
+      ]
+    },
+
+    {
+      "tag": "articulo27_registro_biometrico",
+      "patterns": [
+        "cuando será el registro biometrico",
+        "fecha del registro biometrico",
+        "cuando se realiza la toma de imágenes biometricas",
+        "fecha de entrega de carnet",
+        "cuando me entregaran mi carnet de postulante",
+        "cuando se realiza la identificación biometrica",
+        "que es el registro biometrico",
+        "cuando se realiza la captura de datos biometricos",
+        "cuando se hace el registro biometrico",
+        "cual es la programación para el registro biometrico",
+        "para cuando esta previsto el registro biometrico",
+        "hay alguna fecha establecida para el registro biometrico",
+        "cuando empieza la captura de datos biometricos",
+        "cuando recibire mi carnet",
+        "en que fecha me entregaran mi carnet de postulante",
+        "plazo de entrega del carnet"
+      ],
+      "responses": [
+        "Las fechas de toma de imágenes, identificación biométrica y generación de carnet de postulante al examen de admisión, varían segun la modalidad de asmision (Ordinario y extraordinario). Consulta el sitio web oficial para conocer los plazos actuales: \n \n . Para el proceso de admision 2024-I:  \n Para la modalidad Extraordinario fue el 8 de Marzo en la sede Moquegua. \n Para la modalidad Ordinario fue el 11 al 15 de marzo en sede Moquegua e Ilo "
+      ]
+    },
+
+    {
+      "tag": "articulo27_fechas_examen_ordinario_Extraordinario",
+      "patterns": [
+        "cuando sera el examen ordinario",
+        "cuando será el examen extraordinario",
+        "fecha del examen ordinario",
+        "fecha del examen extraordinario",
+        "cuando se realizara el examen extraordinario",
+        "cuando se realizara el examen ordinario",
+        "para cuando esta programado el examen ordinario",
+        "para cuando esta programado el examen extraordinario",
+        "en que fecha se llevara a cabo el examen extraordinario",
+        "en que fecha se llevara a cabo el examen ordinario",
+        "día del examen ordinario",
+        "dia del examen extraordinario",
+        "fecha del examen de admisión",
+        "que día doy mi examen",
+        "cuando se realizara el examen de admisión",
+        "día del examen de admisión",
+        "cuando se publican los resultados",
+        "para cuando esta prevista la publicación de resultados",
+        "fecha que se anuncian los resultados",
+        "fecha de examel canal A",
+        "fecha de examen canal B Y C"
+      ],
+      "responses": [
+        "Las fechas del  examen de admisión de la UNAM varían en cada proceso de admisión. Consulta el sitio web oficial para conocer los plazos actuales.  \n \n Para el proceso de admisión 2024-I: \n El examen de admisión extraordinario fue el 10 de Marzo. \n El examen de admisión ordinario-canal A (sede Moquegua) fue el 16 de marzo.\n  El examen de admisión ordinario-canal B y C (sede Moquegua e Ilo) fue el 17 de marzo."
+      ]
+    },
+
+    {
+      "tag": "articulo28",
+      "patterns": [
+        "¿Cómo realizo la inscripción para el examen de admisión?",
+        "¿La inscripción al examen de admisión es en linea?",
+        "¿Dónde debo inscribirme para el examen de admisión?",
+        "¿Cuál es el link para inscripciones?",
+        "¿Puedo realizar mi inscripción de forma remota?",
+        "¿Puedo realizar mi inscripción al examen de forma virtual?",
+        "¿Cuál es el enlace para realizar mi inscripción?",
+        "¿Puedo hacer mi inscripción de forma presencial?",
+        "¿Dónde realizo mi inscripción para el examen de admisión?",
+        "¿puedo realizar mi inscripción de forma virtual?",
+        "¿Cuántas formas de inscribirme existen?",
+        "¿Cómo accedo a la plataforma virtual de inscripción?"
+            ],
+      "responses": [
+        "La inscripción del postulante al examen de admisión es exclusivamente a través de la plataforma virtual de la Universidad Nacional de Moquegua a (https://unam.edu.pe/admision/ )."
+      ]
+    },
+
+    {
+      "tag": "articulo29",
+      "patterns": [
+        "¿Cómo se valida la información que envío para la preinscripción?",
+        "¿Qué pasa si hay un error en mi documentación de preinscripción?",
+        "¿Cómo estar seguro que mi preinscripción esta correcta?",
+        "¿Cómo se si hice mal mi preinscripción?",
+        "¿Puedo corregir mi preinscripción?",
+        "¿Cómo me notifican sobre la validación de mi preinscripción?",
+      	"¿cuanto demoran en notificar observaciones?",
+        "¿cuanto tiempo demoraran en validar mi postulación?",
+        "¿cuanto tiempo demoraran en validar mis documentos?",
+        "¿Qué documentos necesito para la preinscripción?",
+        "¿Cómo determina si mi preinscripción fue válida?",
+        "¿Qué cosas tengo que hacer en la preinscripción?",
+        "¿Hay la posibilidad de corregir mi preinscripción?",
+        "¿Puedo hacer la corrección de mi preinscripción?",
+        "¿Cómo sé que mi preinscripción fue correcta?"
+      ],
+      "responses": [
+        "El proceso de preinscripción incluye el llenado de datos y carga de documentos digitales según los requisitos de inscripción de la modalidad a la que se encuentre postulando. La oficina de admisión verifica esta información y notifica al postulante en caso de errores en un plazo de 24 horas. No se realiza ningún pago hasta completar esta validación."
+      ]
+    },
+
+    {
+      "tag": "articulo30",
+      "patterns": [
+       "validación de la preinscipción",
+       "despues de validar mi preinscripción",
+       "pago derecho de examen despues de validacion",
+       "cuando realizo el pago para el examen despues de validacion",
+       "¿Qué hago después de que validen mi preinscripción?",
+       "¿Dónde pago el derecho al examen de admisión si ya esta validado?",
+       "¿Cómo se valida el pago del examen de admisión?",
+       "¿Puedo pagar el examen de admisión en cualquier sede?",
+       "¿Qué debe hacer el postulante una vez validada su preinscripción?",
+       "¿Cuándo debo realizar el pago del examen de admisión?",
+	"¿donde puedo realizar el pago del examen de admisión?",
+       "¿Cómo realizo el pago de admisión?",
+       "¿Dónde hago el pago de admisión?",
+       "¿Cuál es el lugar donde tengo que hacer el pago del examen de admisión?",
+	"como puedo realizar el pago si soy de otra ciudad",
+       "puedo pagar en el banco de la nacion",
+       "¿Cómo hago el pago si vengo de otra ciudad para el examen?",
+       "¿Cómo puedo realizar el pago si no me encuentro en Ilo o Moquegua?",
+       "¿Cómo puedo realizar el pago si no puedo acercarme a caja UNAM?",
+       "¿Cómo valido el pago por Banco de la Nación?",
+       "¿Qué hago después de pagar en el Banco de la Nación?",
+       "¿En qué formato debo subir el comprobante de pago a la plataforma?",
+       "¿Es necesario que el voucher sea legible?",
+       "¿Dónde debo subir el voucher escaneado del pago?",
+       "¿Qué pasa si el voucher tiene enmendaduras?",
+       "¿Puedo realizar el pago desde otra región?",
+       "¿Puedo realizar el pago a través de un agente del Banco de la Nación?"
+     ],
+      "responses": [
+        "Una vez validada la preinscripción, el postulante debe pagar el derecho al examen de admisión en el área de Caja UNAM en la sede Moquegua o filial Ilo. Este pago se valida automáticamente. \n Si provienes de otra ciudad, puedes realizar el depósito en el Banco de la Nación (C.C.: 00-141-028154) y luego subir a la plataforma de inscripción el boucher escaneado en formato JPG, asegurándote de que sea legible y sin enmendaduras para su validación."
+      ]
+    },
+    {
+      "tag": "articulo33",
+      "patterns": [
+       "cambio de carrera despues de la inscripción",
+       "¿Puedo cambiar mi carrera o modalidad después de inscribirme?",
+       "¿Es posible modificar la sede elegida tras la inscripción?",
+       "¿Se aceptan cambios en la inscripción una vez realizada?",
+       "¿Qué pasa si quiero cambiar mi carrera después de inscribirme?",
+       "¿Puedo cambiar la modalidad de admisión después de inscribirme?",
+       "¿Está permitido modificar la sede elegida tras la inscripción virtual?",
+       "¿Existe la posibilidad de cambiarme de carrera o modalidad luego de inscribirme?",
+       "Luego de inscribirme, ¿puedo cambiar de carrera?",
+       "¿Se aceptan cambios de carrera una vez realizada la inscripción?",
+       "¿Se aceptan cambios de modalidad de admisión luego de realizar la inscripción?",
+       "¿Es posible hacer un cambio de carrera para el examen de admisión luego de realizar la inscripción?"      
+     ],
+      "responses": [
+        "Una vez realizada la inscripción virtual, no se aceptan cambios de carrera, modalidad o sede.",
+        "Después de completar la inscripción virtual, no es posible realizar cambios en la carrera, modalidad o sede elegida."
+      ]
+    },
+
+    {
+      "tag": "articulo34",
+      "patterns": [
+        "¿Puedo volver a postular en el proceso Ordinario?",
+        "¿Puedo volver a postular?",
+        "¿Qué opción tienen los postulantes que no alcanzan vacante a través del CEPREUNAM o del Examen Extraordinario?",
+        "¿Qué oportunidad tiene los postulantes que no alcancen vacantes?",
+        "¿A qué proceso pueden inscribirse los postulantes que no alcanzan vacante por CEPREUNAM o Examen Extraordinario?",
+        "No alcancé una vacante por CEPREUNAM, ¿puedo postular?",
+        "No alcancé una vacante por el examen extraordinario, ¿puedo postular?",
+        "¿Puedo volver a dar el examen de admisión ordinario si no ingres por cepre o extraordinario?",
+        "¿Cuándo puedo volver a postular sino ingrese?",
+	"si no ingrese por cepre puedo postular a examen ordinario"
+	
+      ],
+      "responses": [
+        "Los postulantes que no alcanzan vacante, ya sea por la modalidad del CEPREUNAM o por la modalidad del Examen Extraordinario, tienen la opción de inscribirse al proceso de Examen Ordinario."
+      ]
+    },
+
+    {
+      "tag": "articulo35",
+      "patterns": [
+       "puntaje examen extraordinario",
+       "evaluación examen extraordinario",
+       "¿Cómo se realiza la evaluación en el examen extraordinario?",
+       "¿Qué se evalúa en el examen extraordinario de la UNAM?",
+       "¿Cuánto porcentaje del examen extraordinario es Razonamiento Matemático?",
+       "¿Cuál es la importancia del Razonamiento Verbal en el examen extraordinario?",
+       "¿Cómo se divide el examen extraordinario en términos de áreas evaluadas?",
+       "¿Qué áreas debo preparar para el examen extraordinario de admisión?",
+       "¿Qué áreas evalúa el examen extraordinario?",
+       "¿Cuál es el peso del Razonamiento Matemático en el examen extraordinario?",
+       "¿Cómo se distribuyen las áreas de evaluación en el examen extraordinario?",
+       "¿Cuánto cuenta el Razonamiento Verbal en el examen extraordinario?",
+       "¿Qué porcentaje de la prueba representa cada sección en el examen extraordinario?",
+       "¿Qué materias se evalúan en el examen extraordinario?",
+       "¿Cómo se realiza la evaluación en el examen extraordinario?",
+       "¿Qué cursos se evalúan para el examen extraordinario?",
+       "¿Qué porcentaje se distribuye para el Razonamiento Verbal en el examen extraordinario?",
+       "¿De qué forma se dividen las materias en el examen extraordinario?",
+       "puntaje canal A",
+       "puntaje canal B",
+       "puntaje canal C",
+       "¿Cuánto es el puntaje de cada pregunta si postulo a ciencias de la salud?",
+       "¿Cuánto es el puntaje de cada pregunta si postulo a sociales?",
+       "¿Cuánto es el puntaje de cada pregunta si postulo a ingenierias?",
+       "¿Cuánto es el puntaje de cada pregunta en el examen de admision?",
+       "¿Cómo se determina los puntajes para cada pregunta si postulo a ciencias de la salud?",
+       "¿Cómo se determina los puntajes para cada pregunta si postulo a sociales?",
+       "¿Cómo se determina los puntajes para cada pregunta si postulo a ingenierias?",
+       "¿Cuánto vale cada pregunta en el examen?",
+       "¿Qué temas evaluan en el examen y cuales son los puntajes?",
+       "¿Qué temas debo estudiar para el examen de admisión ordinario?",
+       "¿En qué se enfoca la prueba general del examen ordinario?",
+       "¿Cuál es el porcentaje de la sección de conocimientos en el examen ordinario?",
+       "¿La prueba de admisión ordinaria incluye preguntas de mi currículo escolar?",
+       "¿Cómo se divide la evaluación en el examen ordinario de la UNAM?",
+       "¿Cuánto vale la sección de Aptitud Académica en el examen ordinario?",
+       "¿De qué se compone la evaluación en el Examen Ordinario?",
+       "¿Cuál es el enfoque principal del Examen Ordinario?",
+       "¿Qué porcentaje del examen se dedica a la Aptitud Académica?",
+       "¿En qué se basa la sección de Conocimientos del examen?",
+       "¿Cómo se divide el examen en términos de contenidos evaluados?",
+       "que temas debo estudiar?",
+       "que cursos debo estudiar?",
+       "que areas debo estudiar para dar mi examen de admision?"
+     ],
+      "responses": [
+        "En el examen extraordinario de admisión de la UNAM, los postulantes son evaluados en dos áreas principales: Razonamiento Matemático y Razonamiento Verbal, con cada una contribuyendo al 50% del total del examen. \n Los postulantes que se presenten al examen general de admisión en la modalidad de Examen Ordinario serán evaluados en base a dos componentes principales: Aptitud Académica, que representa el 50% de la prueba, y Conocimientos, que también comprende el 50% restante. La sección de Conocimientos se basa en los contenidos del diseño curricular de educación secundaria a nivel nacional y regional. \n para ver MATRIZ DE EVALUACIÓN PARA EL EXAMEN ORDINARIO GENERAL:www.larespuestaentucorazon.com "
+      ]
+    },
+    {
+      "tag": "articulo37",
+      "patterns": [
+        "¿Cuantas preguntas tiene el examen?",
+        "¿Cuántas preguntas tiene el examen ordinario?",
+        "¿Cuántas preguntas tiene el examen ordinario?",
+        "¿Cuántas preguntas tiene el examen ordinario general?",
+        "¿Cuál es el total de preguntas del examen de admisión?",
+        "¿Cuál es el total de preguntas del examen ordinario?",   
+        "¿Cuál es el total de preguntas del examen extraordinario?",
+        "¿Cuánto es el tiempo de duración del examen?",
+        "¿Cuánto es el tiempo de duración del examen extraordinario?",
+        "¿Cuánto es el tiempo de duración del examen ordinario?",
+        "Cuánto es el tiempo de duración del examen ordinario general?",
+        "¿Cuánto tiempo dura el examen?",
+        "En cuanto tiempo debo responder el examen de admisión?",
+        "En cuanto tiempo debo responder el examen ordinario?",   
+        "En cuanto tiempo debo responder el examen extraordinario?",
+        "¿Cuántas preguntas tiene el examen de admisión en la UNAM?",
+        "¿Cuál es la duración total del examen de admisión en la UNAM?",
+        "¿Cuánto tiempo tengo para responder el examen de admisión?",
+        "¿Cuántas preguntas debo esperar en el examen ordinario y extraordinario?",
+        "¿Cuál es la duración del examen de admisión, tanto ordinario como extraordinario?",
+        "¿De cuántas preguntas se compone el examen de admisión?",
+        "¿Cuál es el tiempo asignado para completar el examen de admisión?",
+        "¿Tengo 2 horas para todas las preguntas del examen?",
+        "¿El examen ordinario y extraordinario tienen la misma cantidad de preguntas?",
+        "¿Qué tiempo se me da para contestar el examen en la UNAM?"
+      ],
+      "responses": [
+        "El examen presencial, tanto en la modalidad ordinario como extraordinario, en la Universidad Nacional de Moquegua consta de 60 preguntas y tiene una duración de 2 horas (120 minutos)."
+      ]
+    },
+	  
+    {
+	   "tag": "articulo49",
+	   "patterns": [
+	     "¿Qué documentos debo entregar luego de ser admitido como ingresante?",
+	     "¿Hay un plazo para entregar mis documentos después de haber ingresado?",
+	     "¿Cuánto tiempo tengo para proporcionar los documentos despues de haber ingresado?",
+	     "¿Cuántos días tengo para presentar mis documentos luego de ser admitido como ingresante?",
+	     "que debo presentar despues de haber ingresado",
+	     "cuanto tiempo tengo para entregar mis documentos depues de haber ingresado",
+	     "cual es el plazo para entregar mis documentos despues de haber ingresado",
+	     "que procede despues de haber ingresado",
+	     "que debo hacer con mis documentos depues de haber ingresado",
+	     "cuales son los documentos que debo presentar despues de haber ingresado",
+	     "despues de ingresar que documentos debo presentar",
+	     "despues de ingresar cuento tiempo tengo para presentar mis papeles",
+	     "¿Qué deben presentar los ingresantes por la modalidad Titulados o Graduados?",
+	     "¿Qué documentos originales deben presentar los ingresantes por modalidad Titulados o Graduados?",
+	     "El ingresado por la modalidad de Titulados O Graduados, ¿Qué documentos debo presentar?",
+	     "¿Que documentos debo presentar si ingresé por la modalidad Titulados o Graduados?",
+	     "¿Qué documentos debo proporcionar si mi ingreso se ha realizado bajo la modalidad de Titulados o Graduados?",
+	     "que debo hacer si ya ingrese a la universidad?"
+	   ],
+	   "responses": [
+	     "El ingresante deberá entregar en físico en un plazo no mayor a 48 horas después de publicados los resultados oficiales, los documentos originales, según su modalidad de ingreso y su certificado de estudios secundarios o la constancia de logros de aprendizaje. Los documentos deberán reunir los siguientes requisitos:  \n \n a) Los certificados de estudios deberán estar sellados por la Dirección y la Secretaría de la Institución Educativa que los expide. \n \n b) En caso de ser un certificado digital oficial o Constancia de Logros de Aprendizaje debe contar con el Código QR para constatar su veracidad. \n \n c) En los certificados de estudios, todos los cursos deberán aparecer con notas aprobatorias, \n \n d) No deberán presentar borrones, enmendaduras o modificaciones. \n \n Los ingresantes por la modalidad Titulados o Graduados en la UNAM deberán presentar copia fedateada por la universidad de origen o notarial de su certificado de estudios universitarios, y deberá presentar el documento original para el trámite de convalidación de cursos según TUPA."
+	   ]
+	 },
+	
+	 {
+	   "tag": "articulo52",
+	   "patterns": [
+	     
+		"¿Cuando pierdo el derecho de ingreso?",
+	     "¿En que casos pierdo el derecho de ingreso?",
+	     "¿Cuáles son las razones por las cuales puede perder el derecho de ingreso una vez dada el examen de admision?",
+	     "¿Qué ocurre si renuncias o abandonas la vacante otorgadas luego de ser admitido?",
+	     "¿Qué sucede si se comete un acto ilícito en el Concurso de Admisión?",
+	     "que sucede con los ingresantes no presentan los documentos",
+	     "hay plazo para presentar documentos para ingresantes",
+	     "cuando pierdo mi vacante",
+	     "perder mi vacante despues de haber ingresado",
+	     "sino entrego mis documentos pierdo vacante",
+	     "no entrego documentos pierdo vancante",
+	     "como pierdo mi vacante",
+	     "en que caso uno pierde su vancat",
+	     "que pasa si me olvido de presentar mi documentos?"
+	   ],
+	   "responses": [
+	     "Pierde el derecho de ingreso, quien: \n \n a) No entregue todos los documentos originales en el plazo establecido en conformidad a lo solicitado según los Artículos 49° y 50°, y de acuerdo a la modalidad que haya ingresado. \n \n b) Haya sido sancionado en aplicación del presente reglamento. \n \n c) Renuncie o abandone la vacante otorgada (no se matricule en los plazos establecidos). \n \n d) Haya cometido un acto ilícito en cualquier etapa del Concurso de Admisión, comprobado en fecha posterior. \n \n Las vacantes libres en aplicación del presente artículo se cubrirán de acuerdo con lo estipulado en el artículo 39° del presente reglamento. \n \n De forma excepcional por razones ajenas al ingresante podrá solicitar (mediante documento) una ampliación de plazo para la presentación de la documentación correspondiente."
+	   ]
+	 },
+	
+	 {
+	   "tag": "articulo54",  
+	   "patterns": [
+	     "Requiero solicitar mi constancia de Ingreso, ¿Cómo hago?",
+	     "¿Donde obtengo mi constancia de Ingreso?",
+	     "¿Quiero mi Constancia de Ingreso donde lo solicito?",
+	     "¿A dónde solicito para optener mi constancia de ingreso?",
+	     "¿Cómo solicito para obtener la Constancia de Ingreso?",
+	     "¿Cuándo debo solicitar mi Constancia de Ingreso como ingresante  del Examen de Admisión Ordinario, Extraordinario O la CEPRE?",
+	     "¿Cuánto tiempo tienen para solicitar la Constancia de Ingreso después de la publicación de resultados?",
+	     "¿Hasta cuando tengo para solicitar la constancia de Ingreso?",
+	     "¿Cuanto tiempo tengo para solicitar la constancia de Ingreso?",
+	     "¿Cual es la fecha límite para poder hacer la solicitud de constancia de Ingreso?",
+	     "¿Cuál es el plazo establecido para solicitar la Constancia de Ingreso según el TUPA?",
+	     "¿Solo necesito realizar la solicitud para optener la constancia de ingreso?", 
+	     "¿Qué se requiere para solicitar la Constancia de Ingreso?",
+	     "¿Qué documentos deben entregar junto con la solicitud de Constancia de Ingreso?",
+	     "¿Cuales son los requisitos para obtener la Constancia de Ingreso?",
+	     "¿Cuándo se debe pagar el recibo por la Constancia de Ingreso?",
+	     "¿cual es el costo de constancia de ingreso?",
+	     "Que monto de dinero debo pagar por la constancia de ingreso?"
+	
+	   ],
+	   "responses": [
+	     "Los ingresantes del Examen de Admisión CEPRE, Ordinario y Extraordinario que requieran solicitar su Constancia de Ingreso, para algún tipo de trámite externo, será dentro de las 72 horas a partir de la publicación de los resultados del examen ordinario, mediante mesa de partes de la UNAM. \n \n Asimismo, deberá entregar lo siguiente: \n - FUT con la solicitud de Constancia de Ingreso. \n - Recibo de pago por Constancia de ingreso: Según TUPA."
+	   ]
+	 },
+
+ 	{
+		"tag": "formato_01",
+		"patterns": [
+		  "¿Qué tipo de cosas debo presentar para la inscripción del proceso de admisión?",
+		  "¿Cuáles son los requisitos básicos para la inscripción al examen de admisión?",
+      " actividades antideportivas por el Tribunal o Comisión de Justicia de la Federación o Comisión Nacional respectiva",
+		  "¿Donde obtengo el Formato 1 para inscribirse al proceso de admisión ?",
+		  "¿De que trata el formato 1?",
+		  "¿Cuales son los requisitos para llenar el Formato 1?",
+		  "¿Qué necesito para inscribirme en el examen de admisión ",
+		  "Necesito informacion para el proceso de admisión",
+		  "¿Cuáles son los requisitos para inscribirse al examen de admisión?",
+		  "¿Dónde obtengo el Formato 1 para inscribirme?",
+		  "¿Qué necesito para llenar el Formato 1?",
+		  "¿Que informacion se tiene que poner en el formato 1?",
+		  "¿Dónde encuentro la declaración jurada de inscripción para proceso de admisión ?",
+		  "¿De qué se trata el formato 1?",
+		  "¿De qué se trata el formato1?",
+		  "formato 1",
+		  "formato1",
+		  "inscripción al proceso de admisión se necesita",
+		  "que se necesita para la inscripción al proceso de admisión ",
+		  "que necesito para inscribirme al proceso de admisión 2024-I",
+      "que necesito para inscribirme en el proceso de admision en la unam?",
+      "¿Cuáles son los requisitos específicos para la inscripción al proceso de admisión 2024-I de la UNAM?",
+      "¿Qué documentos debo presentar para completar mi inscripción en el proceso de admisión 2024-I de la UNAM?",
+      "¿Dónde puedo encontrar información detallada sobre los requisitos de inscripción para el proceso de admisión 2024-I de la UNAM?",
+      "¿Hay algún formulario o solicitud específica que deba completar para inscribirme en el proceso de admisión 2024-I de la UNAM?",
+      "¿Cuál es el procedimiento exacto para realizar la inscripción en el proceso de admisión 2024-I de la UNAM?"
+
+		],
+		"responses": [
+		  "Para la inscripción al proceso de admisión 2024-I de la UNAM se requiere: 1) Registro en línea de la inscripción, 2) Certificado de estudios o constancia de logros de aprendizaje, que se puede obtener en https://constancia.minedu.gob.pe, y 3) Fotografía reciente a color en fondo blanco, 4) Documento Nacional de Identidad. Además, es necesario conocer y cumplir con todas las disposiciones y sanciones del Reglamento de Admisión 2023-II. Presentar información falsa en la declaración jurada puede resultar en un delito contra la fe pública y falsificación de documentos. Es importante recordar que no se procederá con la inscripción si los documentos están deteriorados, manchados o borrosos. Este formato podrás encontrar en el REGLAMENTO GENERAL DEL PROCESO DE ADMISION 2024-I Pág. 22"
+		]
+	  },
+  
+	  {
+		"tag": "formato_02",
+		"patterns": [
+		  "¿Qué necesito presentar para inscribirme como primero o segundo puesto de mi escuela?",
+		  "¿Qué pasa si ya he usado mi derecho de admisión como primer o segundo puesto en otra universidad?",
+		  "¿Qué documentos necesito para inscribirme en la modalidad de primeros puestos?",
+		  "¿La constancia o certificado otorgado por mi institución es obligatoria para postular como primero o segundo puesto de mi escuela?",
+		  "¿Qué sucede si ya me inscribí como primer o segundo puesto en otra universidad?",
+		  "¿Qué papeles necesito para la modalidad de primeros puestos?",
+		  "¿Es obligatorio el certificado de mi institución para postular como primero o segundo puesto de mi escuela?",
+		  "¿De qué se trata el formato 2?",
+		  "¿De qué se trata el formato2?",
+		  "formato 2",
+		  "formato2",
+		  "inscripcion bajo modalidad de primeros puestos de instituciones educativas",
+		  "como me inscribo en la  modalidad de primeros puestos de instituciones educativas",
+      "que documentos necesito para inscribirme en la modalidad de primeros puestos",
+      "¿Qué requisitos específicos se necesitan para inscribirse en la UNAM bajo la modalidad de primeros puestos de instituciones educativas?",
+    "¿Qué documentos debo presentar para completar mi inscripción en la UNAM bajo la modalidad de primeros puestos?",
+    "¿Dónde puedo encontrar información detallada sobre el proceso de inscripción en la UNAM bajo la modalidad de primeros puestos?",
+    "¿Hay algún formulario o solicitud específica que deba completar para inscribirme en la UNAM bajo a modalidad de primeros puestos?",
+    "¿Cuál es el procedimiento exacto para realizar la inscripción en la UNAM bajo la modalidad de primeros puestos?"
+   
+		],
+		"responses": [
+		  "Para inscribirte en la UNAM bajo la modalidad de primeros puestos de instituciones educativas necesitas: 1) Una constancia o certificado otorgado por el director de tu centro educativo que acredite tu orden de mérito, 2) Certificado de estudios de educación secundaria o constancia de logros de aprendizaje, que puedes obtener en https://constancia.minedu.gob.pe, 3) Declaración jurada de no haber usado el derecho de admisión del primer o segundo puesto en ninguna universidad a nivel nacional, y 4) Fotografía a color en fondo blanco, 5)Documento Nacional de Identidad. Declarar falsamente puede resultar en un delito contra la fe pública y falsificación de documentos. Importante: No se procederá con la inscripción si los documentos están deteriorados, manchados o borrosos.  Este formato podrás encontrar en el REGLAMENTO GENERAL DEL PROCESO DE ADMISION 2024-I Pág. 23"
+		]
+	  },
+  
+	  {
+		"tag": "formato_03",
+		"patterns": [
+		  "¿Qué debo declarar en el Formato 03 para el proceso de admisión?",
+		  "¿Qué debo hacer si ya he utilizado mi derecho de admisión como primero o segundo puesto en otra universidad?",
+		  "¿Qué debo verificar antes de presentar el Formato  03?",
+		  "¿Donde encuentro la declaración jurada de no haber hecho uso del derecho de admisión del primer o segundo puesto en ninguna universidad pública o privada a nivel nacional?",
+		  "¿Qué debo declarar en el Formato 3 para el proceso de admisión?",
+		  "¿De qué se trata el formato 3?",
+		  "¿De qué se trata el formato3?",
+		  "formato 3",
+		  "formato3",
+		  "declarar bajo juramento que no has hecho uso del derecho de admisión del primer o segundo puesto en ninguna otra universidad a nivel nacional",
+      "declaracion de que no use del derecho de admisión del primer o segundo puesto en ninguna otra universidad a nivel nacional",
+		  "juramento de no hacer uso del derecho de admisión del primer o segundo puesto en ninguna otra universidad a nivel nacional",
+		  "declaracion jurada de no aver hecho uso del derecho de admisión del primer o segundo puesto",
+      "donde declaro que no hice uso de mi derecho de examen de primeros puestos?",
+      "¿Dónde puedo hacer la declaración bajo juramento de no aver hecho uso del derecho de admisión del primer o segundo puesto en ninguna otra universidad a nivel nacional.?"
+		  
+		],
+		"responses": [
+		  "En el Formato N° 03, debes declarar bajo juramento que no has hecho uso del derecho de admisión del primer o segundo puesto en ninguna otra universidad a nivel nacional. Si la información que proporcionas resulta ser falsa, declaras haber incurrido en el delito de falsa declaración en procesos administrativos y delito contra la Fe Pública, según el artículo 411º del Código Penal y la Ley Nº 27444 de Procedimientos Administrativos General. Importante: El formulario no será válido si está deteriorado, manchado o borroneado."
+		]
+	  },
+  
+	  {
+		"tag": "formato_04",
+		"patterns": [
+		  "¿Qué necesito para inscribirme como víctima del terrorismo en la UNAM?",
+		  "¿Dónde consigo la constancia del Consejo Nacional de Calificación para víctimas del terrorismo?",
+		  "Si ya utilicé el beneficio para víctimas del terrorismo en otra universidad, ¿puedo inscribirme en la UNAM bajo la misma modalidad?",
+		  "¿Como me inscribo en la admision si soy víctima del terrorismo?",
+		  "¿Qué  Formatose necesita para la modalidad de Víctimas del Terrorismo? ",
+		  "¿De qué se trata el formato 4?",
+		  "¿De qué se trata el formato4?",
+		  "inscripcion bajo Modalidad de Víctimas del Terrorismo",
+		  "formato 4",
+		  "formato4",
+		  "que modalidad puedo postular si fui victima por terrorismo?",
+		  "victima de terrorismo",
+      "como me inscribo en la modalidad de victima por terrorismo?",
+      "que se necesita para inscribirme en la modalidad de victima de terrorismo?",
+
+      "¿Cuáles son los requisitos específicos para inscribirte en la UNAM bajo la Modalidad de Víctimas del Terrorismo?",
+    "¿Qué documentos necesito para completar mi inscripción en la UNAM bajo la Modalidad de Víctimas del Terrorismo?",
+    "¿Dónde puedo obtener información detallada sobre cómo inscribirme en la UNAM bajo la Modalidad de Víctimas del Terrorismo?",
+    "¿Hay algún formulario específico que deba completar para inscribirme en la UNAM bajo la Modalidad de Víctimas del Terrorismo?",
+    "¿Quién puede solicitar la inscripción en la UNAM bajo la Modalidad de Víctimas del Terrorismo?"
+
+		],
+		"responses": [
+		  "Para inscribirte en la UNAM bajo la Modalidad de Víctimas del Terrorismo necesitas: 1) Copia simple de la constancia del Consejo Nacional de Calificación según el Art. 2º del D.S. 051- 88- PCM o de la Dirección de Bienestar de la Policía Nacional del Perú o Comando Conjunto de las Fuerzas Armadas, 2) Certificado de estudios de educación secundaria o constancia de logros de aprendizaje, que puedes obtener en https://constancia.minedu.gob.pe, 3) Declaración jurada de no haber hecho uso de este derecho o modalidad en otra universidad del país, y 4) Fotografía a color en fondo blanco, 5)Documento Nacional de Identidad. Proporcionar información falsa puede resultar en un delito contra la fe pública y falsificación de documentos. Importante: El formulario no será válido si está deteriorado, manchado o borroneado."
+		]
+	  },
+  
+	  {
+		"tag": "formato_05",
+		"patterns": [
+		  "¿Qué documentos necesito para inscribirme bajo la Modalidad de Plan Integral de Reparaciones?",
+		  "¿Dónde obtengo la constancia del Consejo Nacional de Calificación para el Plan Integral de Reparaciones?",
+		  "¿Puedo inscribirme en esta modalidad si ya he accedido a educación superior como víctima según el Plan Integral de Reparaciones?",
+		  "¿Qué papeles necesito para apuntarme bajo el Plan Integral de Reparaciones?",
+		  "¿Qué pasa si digo algo falso en mi declaración bajo el Plan Integral de Reparaciones?",
+		  "¿Como es la Modalidad de Plan Integral de Reparaciones?",
+		  "¿De qué se trata el formato 5?",
+		  "¿De qué se trata el formato5?",
+		  "inscripcion en Modalidad de Plan Integral",
+		  "formato 5",
+		  "formato5",
+      "que se necesita para inscribirte en la modalidad de plan integral",
+
+      "¿Cuáles son los requisitos específicos para inscribirse en la UNAM bajo la Modalidad de Plan Integral de Reparaciones?",
+      "¿Hay algún formulario específico que deba completar para inscribirme en la UNAM bajo la modalidad de Plan Integral de Reparaciones?",
+      "inscripción en la UNAM bajo la Modalidad de Plan Integral de Reparaciones?"
+		],
+		"responses": [
+		  "Para inscribirte en la UNAM bajo la Modalidad de Plan Integral de Reparaciones necesitas: 1) Constancia del Consejo Nacional de Calificación expedida por el Consejo de Reparaciones de la PCM según la Ley N° 28592, presentando los documentos oficiales en original, 2) Declaración jurada de no haber accedido a educación superior no universitaria o universitaria como víctima según el Plan Integral de Reparaciones, 3) Certificado de estudios de educación secundaria o constancia de logros de aprendizaje, obtenida de https://constancia.minedu.gob.pe, y 4) Fotografía a color en fondo blanco, 5)Documento Nacional de Identidad. Proporcionar información falsa puede resultar en un delito contra la fe pública y falsificación de documentos. Importante: El formulario no será válido si está deteriorado, manchado o borroneado."
+		]
+	  },
+  
+	  {
+		"tag": "formato_06",
+		"patterns": [
+		  "¿Qué debo declarar en el Formato 06 para el proceso de admisión 2024-I?",
+		  "¿Qué debo declarar en el Formato 6 ?",
+		  "Si ya utilicé mi derecho de admisión como víctima de terrorismo o bajo el plan integral de reparaciones en otra universidad, ¿puedo inscribirme en la UNAM?",
+		  "¿Qué debo verificar antes de presentar el Formato 06?",
+		  "¿Cómo afecta mi inscripción si ya he ejercido mi derecho de admisión como víctima de terrorismo o bajo el plan integral de reparaciones  en otra universidad?",
+		  "¿Necesito alguna documentación adicional para demostrar que no he usado mi derecho de admisión como víctima en otra universidad?",
+		  "¿Qué debo decir en el Formato 06 para entrar a la UNAM en 2024-I?",
+		  "Si ya me inscribí como víctima de terrorismo o bajo el plan de reparaciones en otra universidad, ¿puedo inscribirme en la UNAM?",
+		  "¿Qué debo revisar antes de llenar el Formato 6?",
+		  "¿donde declaro que no usé mi derecho de admisión como víctima de terrorismo o el  plan integral de reparaciones en otra universidad?",
+		  "¿Necesito más documentos para demostrar que no usé mi derecho de admisión como víctima de terrorismo o el el plan integral de reparaciones en otra universidad?",
+		  "¿Qué papeles necesito para completar el Formato N° 06?",
+		  "¿De que trata el formato 06?",
+		  "¿De qué se trata el formato 6?",
+		  "¿De qué se trata el formato6?",
+		  "formato 6",
+		  "formato6",
+		  "juramento que no has hecho uso del derecho de admisión en tu condición de víctima de terrorismo",
+		  " en que formato o dumento declaro que no hice uso del derecho de admision en condicion de victima por terrorismo?",
+      "donde declaro que no hice uso de mi derecho de examen en modalidad de victima de terrorismo?",
+      "¿Dónde debo hacer la declaración bajo juramento de que no he hecho uso del derecho de admisión como víctima de terrorismo o bajo el plan integral de reparaciones en otra institución?",
+    "¿En qué documento debo declarar que no he hecho uso del derecho de admisión como víctima de terrorismo o bajo el plan integral de reparaciones?",
+    "¿Hay algún formulario específico que deba completar para declarar bajo juramento que no hice  uso del derecho de admisión en mi condición de víctima de terrorismo o bajo el plan integral  ?",
+    "juramento que no has hecho uso del derecho de admisión en tu condición de víctima de terrorismo o bajo el plan integral de reparaciones en otra institución"
+
+		],
+		"responses": [
+		  "En el Formato N° 06, debes declarar bajo juramento que no has hecho uso del derecho de admisión en tu condición de víctima de terrorismo o bajo el plan integral de reparaciones en otra institución. Si la información que proporcionas resulta ser falsa, declaras haber incurrido en el delito de falsa declaración en procesos administrativos y delito contra la Fe Pública, según el artículo 411º del Código Penal y la Ley Nº 27444 de Procedimientos Administrativos General. Importante: El formulario no será válido si está deteriorado, manchado o borroneado."
+		]
+	  },
+  
+	  {
+		"tag": "formato_07",
+		"patterns": [
+		  "¿Cómo me inscribo en la UNAM si soy egresado de un Colegio de Alto Rendimiento?",
+		  "¿Qué documento necesito para probar mi educación en un Colegio de Alto Rendimiento?",
+		  "Si ya utilicé la modalidad de egresado de Colegio de Alto Rendimiento en otra universidad, ¿puedo usarla de nuevo en la UNAM?",
+		  "¿Que documento debo presentar para postular en modalidad de egresado COAR?",
+		  "¿Debo presentar alguna declaración jurada especial como egresado de Colegio de Alto Rendimiento?",
+		  "¿Puedo inscribirme en la UNAM bajo esta modalidad si ya utilicé un beneficio similar en otra universidad?",
+		  "¿Cómo me registro en la UNAM si salí de un Colegio de Alto Rendimiento?",
+		  "Si ya usé la modalidad de egresado de Colegio de Alto Rendimiento en otra universidad, ¿puedo usarla de nuevo en la UNAM?",
+		  "¿De qué se trata el formato 7?",
+		  "¿De qué se trata el formato7?",
+		  "formato 7",
+		  "formato7",
+		  "COAR",
+		  "inscribirte en la UNAM como egresado de un Colegio de Alto Rendimiento",
+		  "egresado de un Colegio de Alto Rendimiento",
+		  "egresado COAR",
+		  "modalidad COAR",
+		  "modalidad como egresado de un Colegio de Alto Rendimiento ",
+      "que documentos necesito para postular como egresado coar?",
+      "¿Cuáles son los documentos requeridos para postular como egresado de COAR?",
+    "¿Qué papeles debo preparar para dar mi examen como egresado de COAR?",
+    "¿Qué documentos necesito para completar mi solicitud como egresado de COAR?",
+    "¿dame la lista completa de documentos necesarios para postular como egresado de COAR?",
+    "¿Debo presentar algún certificado o constancia para demostrar que soy egresado de COAR?",
+    "¿Qué información debe contener mi expediente para postular como egresado de COAR?"
+		],
+		"responses": [
+		  "Para inscribirte en la UNAM como egresado de un Colegio de Alto Rendimiento necesitas: 1) Constancia de haber egresado de un colegio de alto rendimiento en el año 2022 y 2023 expedido por el colegio de origen, 2) Certificado de estudios o constancia de logros de aprendizaje, que puedes obtener en https://constancia.minedu.gob.pe, 3) Declaración jurada de no haber utilizado esta modalidad en otras universidades, y 4) Fotografía reciente a color en fondo blanco, 5)Documento Nacional de Identidad. Si proporcionas información falsa, podrías incurrir en un delito contra la fe pública y falsificación de documentos. Importante: La documentación no será válida si está deteriorada, manchada o borroneada."
+		]
+	  },
+  
+	  {
+		"tag": "formato_08",
+		"patterns": [
+
+		  "¿Puedo haber usado mi derecho de admisión bajo la Modalidad Egresado de COAR en otra universidad y postular a la Universidad Nacional de Moquegua?",
+		  "¿Qué pasa si descubren que usé mi derecho de admisión como egresado de COAR en otra universidad?",
+		  "¿De qué se trata el formato 8?",
+		  "¿De qué se trata el formato8?",
+		  "formato 8",
+		  "formato8",
+		  "No haber hecho uso del derecho de admisión bajo la Modalidad Egresado de COAR en ninguna otra Universidad a nivel Nacional",
+		  "donde declaro que no hice uso de modalidad coar?",
+		  "donde declaro que no hice uso de Modalidad Egresado de COAR?",
+      "en que documento debo declarar que no use mi derecho de postulacion como egresado COAR?",
+      "No haber hecho uso del derecho de admisión bajo la Modalidad Egresado de COAR",
+      "¿Dónde declaro que no he hecho uso de la modalidad COAR?",
+    "¿Dónde declaro que no he hecho uso de la Modalidad Egresado de COAR?",
+    "¿En qué documento debo declarar que no he usado mi derecho de postulación como egresado de COAR?",
+    "¿Cómo puedo hacer la declaración de no haber hecho uso del derecho de admisión bajo la Modalidad Egresado de COAR?"
+		],
+		"responses": [
+		  "En el Formato N°08 para el proceso de admisión 2024-I de la Universidad Nacional de Moquegua, el postulante debe declarar bajo juramento 'No haber hecho uso del derecho de admisión bajo la Modalidad Egresado de COAR en ninguna otra Universidad a nivel Nacional'. Si se proporciona información falsa, se incurre en el delito Contra la Fé Pública - Artículo 427º del Código Penal y en la Ley Nº 27444 Ley de Procedimientos Administrativos General. Además, la declaración jurada no procede si se encuentra deteriorada, manchada o borroneada."
+		]
+	  },
+  
+	  {
+		"tag": "formato_09",
+		"patterns": [
+		  "¿Qué documentos necesito para inscribirme como deportista calificado en la UNAM?",
+		  "¿Se requiere alguna resolución específica del Instituto Peruano del Deporte para la inscripción como deportista calificado?",
+		  "¿Qué tipo de fotografía debo presentar para el proceso de admisión como deportista calificado?",
+		  "Qué requisitos necesito cumplir para postular en modalidad de deportista calificado?",
+		  "¿Necesito alguna resolución específica del Instituto Peruano del Deporte para apuntarme?",
+		  "¿Qué requisitos necesito cumplir para postular como deportista?",
+		  "Inscripcion bajo la Modalidad de Deportista Calificado",
+		  "¿De qué se trata el formato 9?",
+		  "¿De qué se trata el formato9?",
+		  "formato 9",
+		  "formato9",
+		  "inscribirme en la Modalidad de Deportista Calificado",
+		  "inscripcion de Modalidad de Deportista Calificado",
+      "que se necesita para inscribirme como deportista calificado?",
+      "que se necesita para postular como deportista calificado?",
+      "que modalidad me corresponde si soy un deportista calificado?"
+		],
+		"responses": [
+		  "Para inscribirse en la UNAM bajo la Modalidad de Deportista Calificado, se requieren los siguientes documentos: 1) Resolución emitida por el Presidente del Instituto Peruano del Deporte o su equivalente local, 2) Certificado de estudios o constancia de logros de aprendizaje, 3) Declaración jurada de no haber sido sancionado por falta grave o actividades antideportivas, 4) Documento compromiso de participación en la representación del equipo de la universidad, y 5) Fotografía reciente a color en fondo blanco, 6)Documento Nacional de Identidad. En caso de falsedad en la declaración jurada, se incurre en el delito de falsificación de documentos según el Art. 427º del Código Penal y el TUO de la Ley de Procedimiento Administrativo General. La declaración jurada no procede si se encuentra deteriorada, manchada o borroneada."
+		]
+	  },
+  
+	  {
+		"tag": "formato_10",
+		"patterns": [
+		  "¿Qué debo declarar bajo juramento en el Formato 10 para el proceso de admisión 2024-II?",
+		  "¿Qué implica no haber sido sancionado por falta grave o actividades antideportivas?",
+		  "¿Qué tipo de sanciones se consideran como faltas graves o actividades antideportivas?",
+		  "¿Necesito presentar pruebas adicionales para respaldar mi declaración en el Formato 10?",
+		  "¿Qué debo decir bajo juramento en el Formato 10 para entrar en el proceso de admisión 2024-II?",
+		  "¿Qué significa no haber sido castigado por falta grave o actividades antideportivas?",
+		  "¿Qué tipos de sanciones se consideran como faltas graves o actividades antideportivas?",
+		  "¿Necesito mostrar pruebas adicionales para apoyar mi declaración en el Formato 10?",
+		  "¿Hay algún proceso de seguimiento si se encuentra alguna irregularidad en mi declaración jurada?",
+		  "Declaracion  bajo juramento 'No haber sido sancionado por falta grave o actividades antideportivas por el Tribunal o Comisión de Justicia de la Federación o Comisión Nacional respectiva'"
+		  ,"¿De qué se trata el formato 10?",
+		  "¿De qué se trata el formato10?",
+		  "formato 10",
+		  "formato10",
+		  "donde declaro que no fui sancionado por actividades antideportivas?",
+		  "No haber sido sancionado por falta grave o actividades antideportivas por el Tribunal o Comisión de Justicia de la Federación o Comisión Nacional respectiva",
+      "enque documento declaro que no eh sido sancionado por actividades antideportivas?",
+      "enque documento debo declar que no fui sancionado por actividades antideportivas?",
+      "declaracion de no haver cometido falta grave o actividades antideportivas ",
+      " actividades antideportivas por el Tribunal o Comisión de Justicia de la Federación o Comisión Nacional respectiva"
+		],
+		"responses": [
+		  "En el Formato N°10 para el proceso de admisión 2024-I de la Universidad Nacional de Moquegua, el postulante debe declarar bajo juramento 'No haber sido sancionado por falta grave o actividades antideportivas por el Tribunal o Comisión de Justicia de la Federación o Comisión Nacional respectiva'. En caso de falsedad en la declaración jurada, se incurre en el delito de falsa declaración en Procesos Administrativos - Artículo 411º del Código Penal y en el Delito contra la Fe Pública - Título XIX del Código Penal y artículo 32º de la Ley Nº 27444 Ley de Procedimientos Administrativos General. La declaración jurada no procede si se encuentra deteriorada, manchada o borroneada."
+		]
+	  },
+  
+	  {
+		"tag": "formato_11",
+		"patterns": [
+		  "¿Qué implica el compromiso de honor como deportista calificado en la UNAM?",
+		  "¿Qué responsabilidades tengo respecto al material deportivo entregado por la UNAM?",
+		  "¿Cómo debo comportarme en los entrenamientos y representaciones oficiales de la UNAM?",
+		  "¿Qué se espera de mi conducta hacia profesores, personal administrativo y compañeros en la UNAM?",
+		  "¿Qué sucede si no cumplo con las reglas de control institucional de la UNAM?",
+		  "¿Tengo permiso para usar la infraestructura deportiva de la UNAM fuera de las clases de entrenamiento?",
+		  "¿Estoy autorizado a utilizar mi nombre y fotografía para la promoción del deporte?",
+		  "¿Qué consecuencias hay si no asisto puntualmente a las clases de entrenamiento?",
+		  "¿Qué responsabilidades tengo con respecto a la vestimenta durante los entrenamientos y eventos deportivos?",
+		  "¿Qué debo hacer con el equipo deportivo proporcionado por la UNAM?",
+		  "¿Cómo debo comportarme en los entrenamientos y competencias de la UNAM?",
+		  "¿Puedo usar las instalaciones deportivas de la UNAM fuera de los entrenamientos?",
+		  "¿Puedo permitir que usen mi nombre y foto para promocionar el deporte?",
+		  "compromiso de honor como deportista calificado",
+		  "¿De qué se trata el formato 11?",
+		  "¿De qué se trata el formato11?",
+		  "formato 11",
+		  "formato11",
+		  "que impica el compromiso de honor como deportista calificado en la UNAM ",
+      "enque consiste el compromiso de honor de un deportista calificado?",
+      "compromiso de honor como deportista calificado en la UNAM",
+      "compromiso de honor como deportista calificado"
+		],
+		"responses": [
+		  "El compromiso de honor como deportista calificado en la UNAM implica cumplir con las guías normativas, reglamentos y disposiciones académicas y administrativas de la Universidad. Esto incluye responsabilidades como no promover actividades que perjudiquen la imagen de la universidad, cuidar y asumir costos de reposición del material deportivo entregado, asistir puntualmente a entrenamientos, respetar a profesores y compañeros, utilizar adecuadamente la infraestructura deportiva, cumplir con el reglamento interno, y autorizar el uso de nombre y fotografía para promoción del deporte. El incumplimiento de estos compromisos puede llevar a la descalificación o retiro de la Universidad."
+		]
+	  },
+  
+	  {
+		"tag": "formato_12",
+		"patterns": [
+		  "¿Qué documentos necesito presentar para inscribirme como graduado o titulado universitario en la UNAM?",
+		  "¿Qué debo declarar en la declaración jurada para graduados o titulados universitarios?",
+		  "¿Qué tipo de fotografía debo presentar para el proceso de admisión como graduado o titulado universitario?",
+		  "¿Es necesario presentar el certificado de estudios de educación superior universitaria para la inscripción como graduado o titulado universitario?",
+		  "¿Qué papeles debo llevar para inscribirme como graduado o titulado universitario en la UNAM?",
+		  "Como me inscribo en la UNAM bajo la Modalidad de Graduados y/o Titulados Universitarios",
+		  "¿De qué se trata el formato 12?",
+		  "¿De qué se trata el formato12?",
+		  "formato 12",
+		  "formato12",
+		  "inscribirse en la UNAM bajo la Modalidad de Graduados y/o Titulados Universitarios",
+		  "inscripcion bajo modalidad de Graduados y/o Titulados Universitarios ",
+		  "si soy titulado de otra universidad, que modalidad me corresponde?",
+      "que forma de examen puedo elegir si soy un graduado o titulado universitario?",
+      "que modalidad esta disponible si soy graduado o titulado de universidad?"
+		],
+		"responses": [
+		  "Para inscribirse en la UNAM bajo la Modalidad de Graduados y/o Titulados Universitarios, se requieren los siguientes documentos: 1) Certificado de estudios de educación superior universitaria, 2) Declaración jurada indicando el título o grado académico que posee, y 3) Fotografía reciente a color en fondo blanco, 4) Documento Nacional de Identidad. En caso de falsedad en la declaración jurada, se incurre en el delito de falsificación de documentos según el Art. 427º del Código Penal y el TUO de la Ley de Procedimiento Administrativo General. La declaración jurada no procede si se encuentra deteriorada, manchada o borroneada."
+		]
+	  },
+  
+	  {
+		"tag": "formato_13",
+		"patterns": [
+		  "En la Modalidad de Graduados y/o Titulados Universitarios, ¿qué debo declarar bajo juramento en el Formato 13?",
+		  "Para la Modalidad de Graduados y/o Titulados Universitarios, ¿es obligatorio tener un título o grado académico específico?",
+		  "¿Cuáles son las consecuencias de proporcionar información falsa en el Formato 13 para la Modalidad de Graduados y/o Titulados Universitarios?",
+		  "¿Qué tipo de título o grado académico debo indicar en el Formato 13 para esta modalidad?",
+		  "Si no poseo el título o grado académico requerido, ¿puedo postular en el Formato 13 para la Modalidad de Graduados y/o Titulados Universitarios?",
+		  "¿Cómo demuestro que poseo el título o grado académico necesario en el Formato 13 para la Modalidad de Graduados y/o Titulados Universitarios?",
+		  "Para la Modalidad de Graduados y/o Titulados Universitarios, ¿es suficiente una declaración jurada para verificar mi título o grado académico en el Formato 13?",
+		  "¿Qué documentos adicionales necesito para acreditar mi título o grado académico en el Formato 13 para esta modalidad?",
+		  "¿Qué pasa si mi declaración jurada en el Formato 13 para la Modalidad de Graduados y/o Titulados Universitarios está deteriorada, manchada o borroneada?",
+		  "¿Se puede aceptar una declaración jurada deteriorada, manchada o borrada en el Formato 13 para la Modalidad de Graduados y/o Titulados Universitarios?",
+		  "En el Formato 13 para la Modalidad de Graduados y/o Titulados Universitarios, ¿qué debo decir bajo juramento?",
+		  "Para la Modalidad de Graduados y/o Titulados Universitarios, ¿es necesario tener un título o grado académico específico?",
+		  "¿Cuáles son las consecuencias si digo algo falso en el Formato 13 para la Modalidad de Graduados y/o Titulados Universitarios?",
+		  "¿Qué tipo de título o grado académico debo mencionar en el Formato N°13 para esta modalidad?",
+		  "Si no tengo el título o grado académico requerido, ¿puedo postular en el Formato N°13 para la Modalidad de Graduados y/o Titulados Universitarios?",
+		  "¿Cómo puedo demostrar que tengo el título o grado académico necesario en el Formato N°13 para la Modalidad de Graduados y/o Titulados Universitarios?",
+		  "¿Es suficiente una declaración jurada para verificar mi título o grado académico en el Formato N°13 para la Modalidad de Graduados y/o Titulados Universitarios?",
+		  "¿Necesito otros documentos para confirmar mi título o grado académico en el Formato N°13 para esta modalidad?",
+		  "¿Qué pasa si mi declaración jurada en el Formato N°13 para la Modalidad de Graduados y/o Titulados Universitarios está dañada?",
+		  "¿Se acepta una declaración jurada dañada en el Formato N°13 para la Modalidad de Graduados y/o Titulados Universitarios?",
+		  "Declaracion jurada de Modalidad de Graduados y/o Titulados Universitarios",
+		  "¿De qué se trata el formato 13?",
+		  "¿De qué se trata el formato13?",
+		  "formato 13",
+		  "formato13",
+      "enque documento debo declarar que soy graduado o titulado universitario?"
+
+
+		],
+		"responses": [
+		  "Para el proceso de admisión 2024-I de la Universidad Nacional de Moquegua, bajo la Modalidad de Graduados y/o Titulados Universitarios, el postulante debe declarar bajo juramento en el Formato N°13 contar con un título o grado académico específico en la especialidad que indica. Proporcionar información falsa en esta declaración jurada puede resultar en el delito de falsa declaración en Procesos Administrativos - Artículo 411º del Código Penal y Delito contra la Fe Pública - Título XIX del Código Penal acorde al artículo 32º de la Ley Nº 27444 Ley de Procedimientos Administrativos General. La declaración jurada no procede si se encuentra deteriorada, manchada o borroneada."
+		]
+	  },
+	  {
+		"tag": "formato_14",
+		"patterns": [
+		  "¿Qué requisitos debo cumplir para inscribirme bajo la Modalidad de Traslado Externo en la UNAM?",
+		  "¿Qué tipo de certificado de estudios universitarios necesito para la Modalidad de Traslado Externo?",
+		  "¿Se requiere un certificado de estudios de educación secundaria para el Traslado Externo?",
+		  "¿Necesito declarar sobre antecedentes penales para la Modalidad de Traslado Externo?",
+		  "¿Qué declaró respecto a mi institución de procedencia para el Traslado Externo?",
+		  "¿Es necesario presentar una fotografía a color en fondo blanco para la Modalidad de Traslado Externo?",
+		  "¿Qué sucede si mi declaración jurada del Formato N°14 para la Modalidad de Traslado Externo está deteriorada, manchada o borroneada?",
+		  "¿Que formato debo presentar para postular bajo la modalidad de traslado externo?",
+		  "¿De qué se trata el formato 14?",
+		  "¿De qué se trata el formato14?",
+		  "formato 14",
+		  "formato14",
+		  "inscripcion de  Modalidad de Traslado Externo",
+      "que se necesita para inscribirme en la modalidad de traslado externo?",
+      "que documentos necesito para inscribirme en la modalidad de traslado externo?"
+		],
+		"responses": [
+		  "Para inscribirse en la UNAM bajo la Modalidad de Traslado Externo, se requieren los siguientes documentos y declaraciones: 1) Certificado de estudios universitarios que acrediten haber aprobado al menos cuatro periodos lectivos semestrales o dos anuales o setenta y dos créditos, 2) Certificado de estudios de educación secundaria o constancia de logros de aprendizaje, 3) Declaración jurada de no tener antecedentes penales, 4) Declaración jurada de no haber sido separado de su institución de procedencia por medida disciplinaria o falta grave, 5) Fotografía a color en fondo blanco, 6)Documento Nacional de Identidad. Proporcionar información falsa en esta declaración puede resultar en sanciones legales. La declaración no procede si está deteriorada,manchada o borroneada."
+		]
+	  },
+  
+	  {
+		"tag": "formato_15",
+		"patterns": [
+		  "¿Qué debo declarar bajo juramento en el Formato 15?",
+		  "¿Qué implica declarar no tener antecedentes penales en el proceso de admisión?",
+		  "¿Cómo puedo certificar que no tengo antecedentes penales para el proceso de admisión?",
+		  "¿Es posible ser admitido si tengo antecedentes penales?",
+		  "¿Cómo afectan los antecedentes penales a mi solicitud de admisión?",
+		  "¿Qué documentos necesito para probar que no tengo antecedentes penales?",
+		  "¿Se verifica la información sobre antecedentes penales proporcionada en el Formato 15?",
+		  "¿Cuál es el formato para declarar que no tengo antecedentes penales?",
+		  "¿Qué debo decir bajo juramento en el Formato 15 para la admisión?",
+		  "¿Qué significa decir que no tengo antecedentes penales en la admisión?",
+		  "¿Qué información de identificación debo dar en el Formato 15?",
+		  "¿Cómo puedo confirmar que no tengo antecedentes penales para la admisión?",
+		  "¿Cómo afectan los antecedentes penales a mi solicitud de admisión?",
+		  "¿Qué documentos necesito para mostrar que no tengo antecedentes penales?",
+		  "¿Revisan la información sobre antecedentes penales en el Formato N°15?",
+		  "¿Dónde puedo encontrar el formato para declarar que no tengo antecedentes penales?",
+		  "no tener Antecedentes penales",
+		  "¿De qué se trata el formato 15?",
+		  "¿De qué se trata el formato15?",
+		  "formato 15",
+		  "formato15",
+		  "declaracion jurada de no tener antecedentes penales",
+		  "juramento de no tener antecedentes penales",
+		  "donde declaro mi juramento de no tener antecedentes penales?",
+      "en que documento o formato declaro que no tengo antecedentes penales?"
+		],
+		"responses": [
+		  "En el Formato N°15 para el proceso de admisión 2024-I de la Universidad Nacional de Moquegua, el postulante debe declarar bajo juramento no tener antecedentes penales. Debe firmar y registrar su huella digital. Proporcionar información falsa en esta declaración puede resultar en el delito de falsa declaración en Procesos Administrativos – Artículo 411º del Código Penal y Delito contra la Fe Pública – Título XIX del Código Penal acorde al artículo 32º de la Ley Nº 27444 Ley de Procedimientos Administrativos General. La declaración no procede si está deteriorada, manchada o borroneada."
+		]
+	  },
+  
+	  {
+		"tag": "formato_16",
+		"patterns": [
+		  "¿Qué debo declarar en el Formato 16 para el proceso de admisión 2024-I?",
+		  "¿Incluye el Formato 16 preguntas específicas sobre incidentes disciplinarios anteriores en otras instituciones?",
+		  "¿Es necesario especificar la facultad de procedencia y el tipo de falta cometida en el Formato 16?",
+		  "¿Qué debo decir en el Formato 16 para la admisión 2024-I?",
+		  "¿Tengo que informar sobre separaciones previas de universidades por motivos disciplinarios o faltas graves?",
+		  "'No haber sido separado de la universidad de procedencia por conducta disciplinaria o falta grave durante mis años de estudio'",
+		  "¿De qué se trata el formato 16?",
+		  "¿De qué se trata el formato16?",
+		  "formato 16",
+		  "formato16",
+		  "declaracion jurada de no tener conducta indisciplinaria o falta grave",
+      "¿Cómo puedo hacer la declaración bajo juramento de que no he sido separado de mi universidad de procedencia por conducta disciplinaria o falta grave?",
+      "¿Qué información debo incluir al hacer la declaración bajo juramento de no haber sido separado de la universidad por conducta disciplinaria o falta grave?",
+      "¿Quién debe testificar la declaración bajo juramento de que no he sido separado de mi universidad por conducta disciplinaria o falta grave?",
+      "¿Cuál es el procedimiento para presentar la declaración bajo juramento de no haber sido separado de la universidad por conducta disciplinaria o falta grave?",
+      "¿Quién verifica que no he sido separado de la universidad por conducta disciplinaria o falta grave durante mis años de estudio?",
+      "donde declaro que no eh sido separado o votado de mi otra universidad?",
+      "enque documento o formato declaro que no fui separado de mi universidad de procedencia?",
+      "separado de la universidad de procedencia por conducta disciplinaria o falta grave durante mis años de estudio",
+      "declaracion jurada de no aver sido separado por falta grave",
+      "juramento  de No haber sido separado de la universidad de procedencia por conducta disciplinaria o falta grave durante mis años de estudio"
+		],
+		"responses": [
+		  "En el Formato N°16 para el proceso de admisión 2024-I de la Universidad Nacional de Moquegua, el postulante debe declarar bajo juramento 'No haber sido separado de la universidad de procedencia por conducta disciplinaria o falta grave durante mis años de estudio'. Declaraciones falsas pueden resultar en sanciones legales. Es importante ser transparente sobre cualquier incidente disciplinario o falta grave que pueda haber resultado en una separación de una institución anterior. La declaración no procede si está deteriorada, manchada o borronada. El formato debe ser firmado por el solicitante y/o su representante legal, junto con la huella digital del estudiante."
+		]
+	  },
+  
+	  {
+		"tag": "formato_17",
+		"patterns": [
+		  "¿Qué requisitos debo cumplir para inscribirse bajo la Modalidad de Traslado Interno en la UNAM?",
+		  "¿Qué tipo de constancia de créditos necesito para la Modalidad de Traslado Interno?",
+		  "¿Se requiere un certificado de estudios de educación secundaria para el Traslado Interno?",
+		  "¿Es necesario presentar una declaración jurada de no adeudo de material bibliográfico para el Traslado Interno?",
+		  "¿Qué tipo de fotografía debo presentar para el proceso de admisión como Traslado Interno?",
+		  "¿Cómo puedo asegurar que cumplo con los requisitos para el Traslado Interno?",
+		  "¿Qué necesito para inscribirme con Traslado Interno en la UNAM?",
+		  "¿Qué constancia de créditos necesito para el Traslado Interno?",
+		  "¿Es necesario tener un certificado de estudios de secundaria para el Traslado Interno?",
+		  "¿Debo presentar una declaración jurada de no adeudo de material bibliográfico para el Traslado Interno?",
+		  "¿Cómo puedo asegurarme de que cumplo con los requisitos para el Traslado Interno?",
+		  "Modalidad de Traslado Interno",
+		  "¿De qué se trata el formato 17?",
+		  "¿De qué se trata el formato17?",
+		  "formato 17",
+		  "formato17",
+		  "modo de inscricion Traslado Interno",
+		  "inscripcion de modalidad Traslado Interno",
+      "como me inscribo en la modalidad de traslado interno?"
+		],
+		"responses": [
+		  "Para inscribirse en la UNAM bajo la Modalidad de Traslado Interno, se requieren los siguientes documentos y declaraciones: 1) Constancia de haber aprobado al menos dos periodos lectivos semestrales o 36 créditos, emitida por la Dirección de Actividades y Servicios Académicos (DASA), 2) Certificado de estudios de educación secundaria o constancia de logros de aprendizaje, 3) Declaración jurada de no haber sido sancionado o estar incurriendo en proceso disciplinario en la escuela de origen, 4) Declaración jurada de no adeudo de material bibliográfico, 5) Fotografía a color en fondo blanco, 6) Documento Nacional de Identidad. Proporcionar información falsa en estas declaraciones puede resultar en sanciones legales. La declaración no procede si está deteriorada, manchada o borroneada."
+		]
+	  },
+  
+	  {
+		"tag": "formato_18",
+		"patterns": [
+		  "¿Qué debo declarar en el Formato 18 para el proceso de admisión?",
+		  "¿Es necesario detallar algún proceso disciplinario anterior en la UNAM en el Formato 18?",
+		  "¿De qué trata el formato  18?",
+		  "¿Qué debe declarar bajo juramento el postulante en el Formato 18 ?",
+		  "¿Qué condiciones invalidarían la declaración en el Formato 18?",
+		  "¿Quién debe firmar el Formato 18 para el proceso de admisión 2024-I de la Universidad Nacional de Moquegua?",
+		  "¿Qué información adicional debe incluirse en el Formato N°18?",
+		  "'No haber sido sancionado o estar en curso de proceso disciplinario en la Universidad Nacional de Moquegua'",
+		  "¿De qué se trata el formato 18?",
+		  "¿De qué se trata el formato18?",
+		  "formato 18",
+		  "formato18",
+		  "declaracion de No haber sido sancionado o estar en curso de proceso disciplinario",
+      "donde declaro que no eh sido sancionado o estar en curso de proceso diciplinario?",
+      "No haber sido sancionado o estar en curso de proceso disciplinario"
+		  
+		],
+		"responses": [
+		  "En el Formato N°18 para el proceso de admisión 2024-I de la Universidad Nacional de Moquegua, el postulante debe declarar bajo juramento 'No haber sido sancionado o estar en curso de proceso disciplinario en la Universidad Nacional de Moquegua'. Proporcionar información falsa en esta declaración puede resultar en el delito de falsa declaración en Procesos Administrativos - Artículo 411º del Código Penal y Delito contra la Fe Pública - Título XIX del Código Penal acorde al artículo 32º de la Ley Nº 27444 Ley de Procedimientos Administrativos General. La declaración no procede si está deteriorada, manchada o borroneada. El formato debe ser firmado por el solicitante y/o su representante legal, junto con la huella digital del estudiante."
+		]
+	  },
+  
+	  {
+		"tag": "formato_19",
+		"patterns": [
+		  "¿Qué debo declarar en el Formato 19 para el proceso de admisión?",
+		  "¿donde declaro el no adeudo material bibliográfico?",
+      "juramento de no adeudo de material bibliografico",
+		  "¿Cómo se verifica el no adeudo de material bibliográfico en el proceso de admisión?",
+		  "¿Puede afectar un adeudo previo de material bibliográfico mi admisión en la UNAM?",
+		  "¿Para qué es el formato  19?",
+		  "¿Qué debe declarar bajo juramento el postulante en el Formato 19 para el proceso de admisión?",
+		  "¿Qué condiciones invalidarían la declaración en el Formato 19?",
+		  "¿Qué información adicional debe incluirse en el Formato N°19?",
+		  "'No adeudar material bibliográfico durante mis años de estudio'",
+		  "¿De qué se trata el formato 19?",
+		  "¿De qué se trata el formato19?",
+		  "formato 19",
+		  "formato19",
+		  "declaracion de no adeudo",
+		  "No adeudar material bibliográfico durante mis años de estudio",
+      "que formato debo llenar para declarar que no tengo adeudo de material?",
+      "declaracion de no adeudo de material",
+      "en que documento declaro que no debo ningun material bibliografico?"
+
+		],
+		"responses": [
+		  "En el Formato N°19 para el proceso de admisión 2024-I de la Universidad Nacional de Moquegua, el postulante debe declarar bajo juramento 'No adeudar material bibliográfico durante mis años de estudio' en la escuela Profesional de su elección. Proporcionar información falsa en esta declaración puede resultar en el delito de falsa declaración en Procesos Administrativos - Artículo 411º del Código Penal y Delito contra la Fe Pública - Título XIX del Código Penal acorde al artículo 32º de la Ley Nº 27444 Ley de Procedimientos Administrativos General. La declaración no procede si está deteriorada, manchada o borroneada. El formato debe ser firmado por el solicitante y/o su representante legal, junto con la huella digital del estudiante. "
+		]
+	  },
+  
+	  {
+		"tag": "formato_20",
+		"patterns": [
+		  "¿Qué debo declarar en el Formato 20 para el proceso de admisión?",
+		  "¿Qué tipo de carnet necesito para acreditar mi discapacidad en la admisión?",
+		  "¿Cómo puedo comprobar que cumplo con los requisitos de discapacidad para la admisión?",
+		  "¿Qué formato debo llenar si soy persona con discapacidad?",
+		  "¿Para qué es el formato 20?",
+		  "¿Cuál es la consecuencia de proporcionar información falsa en la declaración bajo juramento en el Formato 20?",
+		  "¿Qué condiciones invalidarían la declaración bajo juramento en el Formato 20?",
+		  "¿Quién debe firmar el Formato 20 para el proceso de admisión 2024-I de la Universidad Nacional de Moquegua, el solicitante o su representante legal?",
+		  "¿Qué información debe incluirse en el Formato 20 para cumplir con los requisitos de ingreso bajo la Modalidad de Personas con Discapacidad?",
+		  "¿De qué se trata el formato 20?",
+		  "¿De qué se trata el formato20?",
+		  "formato 20",
+		  "formato20",
+		  "declaracion para personas discapacitadas",
+		  "formato de discapacidad",
+		  "declaracion de personas con discapacidad",
+		  "juramento de personas con discapacidad",
+      "en que formato declaro que estoy postulando bajo modalidad de discapacitados?",
+      "¿En qué formato debo declarar que estoy postulando bajo la modalidad de discapacitados?",
+
+      "¿Cómo puedo hacer la declaración bajo juramento de que cumplo con los requisitos para ingresar bajo la Modalidad de Personas con Discapacidad?",
+    "¿Qué información debo incluir al hacer la declaración bajo juramento para la Modalidad de Personas con Discapacidad?",
+    "¿Hay algún formulario específico para hacer la declaración bajo juramento de que cumplo con los requisitos como persona con discapacidad?",
+    "¿Cuál es el procedimiento para presentar la declaración bajo juramento de que cumplo con los requisitos como persona con discapacidad?",
+    "¿Puedo presentar pruebas adicionales junto con mi declaración bajo juramento para la Modalidad de Personas con Discapacidad?"
+  
+
+		],
+		"responses": [
+		  "En el Formato N°20 para el proceso de admisión 2024-I de la Universidad Nacional de Moquegua, el postulante debe declarar bajo juramento que cumple con los requisitos para ingresar bajo la Modalidad de Personas con Discapacidad. Esto incluye tener un carnet expedido por el CONADIS, certificado de estudios de educación secundaria o constancia de logros de aprendizaje, una fotografía a color en fondo blanco y Documento Nacional de Identidad. Proporcionar información falsa en esta declaración puede resultar en sanciones legales. La declaración no procede si está deteriorada, manchada o borroneada. Finalmente, el formato debe ser firmado por el solicitante y/o su representante legal, junto con la huella digital del estudiante."
+		]
+	  },
+  
+	  {
+		"tag": "formato_21",
+		"patterns": [
+		  "¿Qué debo declarar en el Formato 21 para el proceso de admisión?",
+		  "¿Cuál es la condición para que proceda la declaración bajo juramento según el Formato 21?",
+		  "declaracion jurada para Modalidad de Convenio Andrés Bello",
+		  "¿De qué se trata el formato 21?",
+		  "¿De qué se trata el formato21?",
+		  "juramento para Modalidad de Convenio Andrés Bello",
+		  "formato 21",
+		  "formato21",
+      "en que formato debo declarar que cumplo con los requisitos para ingresar bajo la Modalidad de Convenio Andrés Bello?",
+      "en que documento debo declarar que cumplo con los requisitos para ingresar bajo la Modalidad de Convenio Andrés Bello",
+      "¿Cómo debo decir que tengo todo lo necesario para entrar usando el Convenio Andrés Bello?",
+      "¿Qué papel debo llenar para demostrar que soy apto para entrar bajo la Modalidad de Convenio Andrés Bello?",
+      "¿En qué tipo de papel debo escribir que cumplo con los requisitos para entrar por el Convenio Andrés Bello?",
+      "¿Qué formato necesito para decir que cumplo con los requisitos del Convenio Andrés Bello?",
+      "¿En qué papel debo escribir que cumplo con los requisitos para entrar bajo la Modalidad de Convenio Andrés Bello?"
+		],
+		"responses": [
+		  "En el Formato N°21 para el proceso de admisión 2024-I de la Universidad Nacional de Moquegua, el postulante debe declarar bajo juramento que cumple con los requisitos para ingresar bajo la Modalidad de Convenio Andrés Bello. Esto incluye: 1) Certificado de convalidación y/o revalidación de estudios emitido por el MINEDU, 2) Certificado de estudios secundarios acreditado por la entidad educativa oficial del país de procedencia, 3) Partida de nacimiento, pasaporte o carnet de extranjería si el alumno nació en el extranjero, 4) Fotografía a color en fondo blanco, 5)Documento Nacional de Identidad. Proporcionar información falsa en esta declaración puede resultar en sanciones legales. La declaración no procede si está deteriorada, manchada o borroneada. Finalmente, el formato debe ser firmado por el solicitante y/o su representante legal, junto con la huella digital del estudiante."
+		]
+	  },
+  
+	  {
+		"tag": "formato_22",
+		"patterns": [
+		  "¿Qué información personal necesito para llenar el Formato 22 de preinscripción en la UNAM?",
+		  "¿Qué ocurre si mi Formato 22 de preinscripción en la UNAM está deteriorado o tiene errores al momento de entregarlo?",
+		  "¿Cuáles son los documentos requeridos para completar el Formato 22 de preinscripción en la UNAM?",
+		  "¿Qué datos específicos debe proporcionar al completar el Formato 22 de preinscripción en la UNAM?",
+		  "¿Cuál es la información personal obligatoria para llenar el Formato 22 de preinscripción en la UNAM?",
+		  "¿Qué información de identificación se necesita para llenar el Formato 22 de preinscripción en la UNAM?",
+		  "¿Cuáles son los requisitos de información personal para el Formato 22 de preinscripción en la UNAM?",
+		  "¿Qué datos de contacto debo incluir al completar el Formato 22 de preinscripción en la UNAM?",
+		  "¿Cuáles son los campos obligatorios de información personal en el Formato 22 de preinscripción en la UNAM?",
+		  "¿Qué tipo de información familiar se solicita en el Formato 22 de preinscripción en la UNAM?",
+		  "¿Cuáles son los requisitos específicos para completar el Formato N°22 de preinscripción en la UNAM?",
+		  "¿Qué documentos de identificación son necesarios para incluir en el Formato N°22 de preinscripción en la UNAM?",
+		  "¿Qué información personal se solicita en el Formato N°22 de preinscripción en la UNAM?",
+		  "Formato 22",
+		  "¿De qué se trata el formato 22?",
+		  "¿De qué se trata el formato22?",
+		  "formato 22",
+		  "formato22",
+      "como es el formato de preinscripcion de admision?",
+      "que datos se necesita para la preinscripción en la UNAM",
+      "que formato es necesario para la preinscripción en la UNAM",
+      "que formato se debe presentar para la preinscripción en la UNAM",
+      "cual es el formato de preinscripcion en la unam?",
+      "que datos requiere el formato 22 de preinscripcion?",
+      "de que trata el formato de preinscrion de la unam?",
+      "que se necesita presentar para la preinscicion en a unam?"
+		],
+		"responses": [
+		  "Para completar el Formato N°22 de preinscripción en la UNAM, necesitarás proporcionar tu nombre completo, DNI, fecha de nacimiento, sexo, información de contacto(dirección,telefono,correo), detalles de tu institución educativa previa, la carrera a la que postulas y la sede de examen. Además, debes cancelar el monto correspondiente al derecho de examen de admisión y presentar el recibo. Es importante que el formulario esté firmado y  acompañado de tu huella dactilar. En caso de ser menor de edad, se requerirá la firma de un apoderado. Asegúrate de que el formulario no esté deteriorado, manchado o borroneado al entregarlo."
+		]
+	  },
+
+    {
+      "tag": "firma-huellas-formato",
+      "patterns": [
+        "Si soy menor de edad, ¿quien debe de firmar el formato?",
+        "Si soy menor de edad, ¿quien debe de poner la huella dactilar en los formatos?",
+        "¿Quién tiene que firmar y poner la huella en los papeles o formatos si eres menor?",
+        "¿Cómo sabemos quién tiene que hacer la firma y la huella en los papeles o formatos si todavía no eres mayor de edad?",
+        "¿Qué pasa si intentas firmar o poner tu huella en los formatos sin que tus papás lo hagan por ti?",
+        "¿Puedes tú firmar tus propios documentos o formatos sin la ayuda de un adulto si aún eres menor?",
+        "en los formatos, es obligatorio que firme mi apoderado si soy menor de edad?",
+        "quien debe de poner la huella dactilar en los formatos?",
+        "soy menor de edad y tengo mi firma ¿puedo firmar en los formatos?",
+        "En los formatos es necesario que firme mi apoderado si soy menor de edad?",
+        "¿dentro de los formatos, Soy menor de edad es necesario poner huella digital mi apoderado y yo?",
+        "¿dentro de formatos, Quien pone la huella digital en caso de ser menor de edad?",
+        "No se firmar porque soy menor edad.¿Es obligatorio que firme en los formatos?"
+        
+      ],
+      "responses": [
+        ""
+      ]
+      } ,
+     
+      {
+        "tag": "modo-entrega-formatos",
+        "patterns": [
+          "la entrega del formato es presencial?",
+          "porque medio debo entregar los formatos",
+          "donde debo subir los formatos?",
+          "como envio los formatos?",
+          "donde entrego los formatos?"
+
+  
+          
+        ],
+        "responses": [
+          "la entrega de formatos es de forma fisica y presencial "
+        ]
+        },
+     
+      {
+        "tag": "url-formatos",
+        "patterns": [
+          "donde puedo descargar el formato?",
+          "quien se encraga de entregarme los formatos?",
+          "quien me entrega los formatos",
+          "donde encuentro estos formatos",
+          "¿Dónde puedo  descargar el formato que necesito?",
+          "¿En qué sitio web puedo encontrar los formatos para descargarlos?",
+          "descargar formato",
+          "¿Donde puedo encontrar los formatos?",
+          "¿En que pagina puedo encontrar los formatos?",
+          "¿A quien le puedo pedir los formatos?",
+          "¿Dónde descargo los formatos?",
+          "¿Dónde puedo pedir los formatos?",
+          "¿Dónde puedo solicitar los formatos?",
+          "¿A quien le puedo solicitar los formatos?"      
+        ],
+        "responses": [
+          "Puedes descar los formatos aqui: "
+        ]
+        }
+  ]
+}
