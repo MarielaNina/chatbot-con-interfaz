@@ -1,0 +1,5 @@
+Flask
+tensorflow
+numpy
+spacy
+es-core-news-sm @ https://github.com/explosion/spacy-models/releases/download/es_core_news_sm-3.1.0/es_core_news_sm-3.1.0.tar.gz

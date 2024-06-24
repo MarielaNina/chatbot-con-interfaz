@@ -43,20 +43,8 @@ labels = []
 for response in responses:
     labels.append(responses.index(response))
 
-# Define the model
-model = tf.keras.models.Sequential([
-    tf.keras.layers.Embedding(len(word_index) + 1, 16),
-    tf.keras.layers.GlobalAveragePooling1D(),
-    tf.keras.layers.Dense(16, activation='relu'),
-    tf.keras.layers.Dense(len(responses), activation='softmax')
-])
-
-# Compile and train the model
-model.compile(loss='sparse_categorical_crossentropy', optimizer='adam', metrics=['accuracy'])
-model.fit(padded_sequences, np.array(labels), epochs=3000)
-
-# # Load saved model
-# model.save('ggg.keras')
+# Load the model
+model = tf.keras.models.load_model('ggg.keras')
 
 # Function to generate response
 def generate_response(user_input):
@@ -87,4 +75,4 @@ def chat():
         return jsonify({"response": response})
 
 if __name__ == '__main__':
-    app.run()
+    app.run(debug=True)
